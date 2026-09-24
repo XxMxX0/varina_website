@@ -1,0 +1,469 @@
+[
+  {
+    "file": "index.html",
+    "line": 3,
+    "type": "html",
+    "role": "entry",
+    "gathers": "index/*.html",
+    "build": "python app.py build"
+  },
+  {
+    "file": "index.html",
+    "line": 6,
+    "section": "head",
+    "seo": "base",
+    "lang": "ar,en",
+    "icon": "favicon.svg"
+  },
+  {
+    "file": "index.html",
+    "line": 22,
+    "type": "shared-svg-defs",
+    "id": "varinaLogo",
+    "used-by": "profile,nav,story",
+    "colors": "red-gold"
+  },
+  {
+    "file": "index.html",
+    "line": 45,
+    "section": "intro",
+    "type": "overlay",
+    "show": "first-entry-per-session",
+    "key": "varina-splash-seen",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 72,
+    "section": "topbar",
+    "sticky": "true",
+    "instagram": "iqvarin",
+    "settings-btn": "settingsBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 87,
+    "section": "identity",
+    "instagram": "iqvarin",
+    "source": "official-post",
+    "avatar": "varinaLogo",
+    "avatar-opens": "video",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 127,
+    "section": "working-hours",
+    "open": "10:00",
+    "close": "23:00",
+    "live-status": "true",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 138,
+    "section": "stories-entry",
+    "interactive": "stories",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 148,
+    "section": "navigation",
+    "controls": "grid,list,boards,qr"
+  },
+  {
+    "file": "index.html",
+    "line": 157,
+    "section": "grid-tab",
+    "count": "12",
+    "interaction": "tap-open,double-tap-like",
+    "images": "images/<key><n>.jpg"
+  },
+  {
+    "file": "index.html",
+    "line": 176,
+    "section": "list-tab",
+    "cards": "3",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 205,
+    "section": "boards-tab",
+    "source": "wood.json",
+    "data": "app/scraper.py",
+    "render": "css-gradients",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 225,
+    "section": "qr-tab",
+    "phones": "2",
+    "instagram": "iqvarin",
+    "ig-direct": "Nu2Djuy3-L2tS8fe",
+    "qr": "live-site-url",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 260,
+    "section": "viewer",
+    "type": "modal",
+    "instagram": "iqvarin",
+    "avatar": "varinaLogo",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 278,
+    "section": "product-modal",
+    "interaction": "swipe,order-whatsapp",
+    "images": "images/<key><n>.jpg",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 300,
+    "section": "showreel",
+    "type": "modal",
+    "autoplay": "muted-loop",
+    "source": "github-raw",
+    "triggers": "navVideoBtn,profileAvatarBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 320,
+    "section": "settings-modal",
+    "type": "modal",
+    "music": "streaming-3-sources",
+    "persist": "varina-music",
+    "trigger": "settingsBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 339,
+    "section": "navigation",
+    "fixed": "true",
+    "video-btn": "navVideoBtn",
+    "avatar": "varinaLogo",
+    "ring": "44px",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index.html",
+    "line": 353,
+    "section": "boot",
+    "libs": "qrcodejs-cdnjs",
+    "entry": "main.js"
+  },
+  {
+    "file": "index/boards.html",
+    "line": 1,
+    "section": "boards-tab",
+    "source": "wood.json",
+    "data": "app/scraper.py",
+    "render": "css-gradients",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/contact.html",
+    "line": 1,
+    "section": "qr-tab",
+    "phones": "2",
+    "instagram": "iqvarin",
+    "ig-direct": "Nu2Djuy3-L2tS8fe",
+    "qr": "live-site-url",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/head.html",
+    "line": 1,
+    "section": "head",
+    "seo": "base",
+    "lang": "ar,en",
+    "icon": "favicon.svg"
+  },
+  {
+    "file": "index/header.html",
+    "line": 1,
+    "section": "topbar",
+    "sticky": "true",
+    "instagram": "iqvarin",
+    "settings-btn": "settingsBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/highlights.html",
+    "line": 1,
+    "section": "stories-entry",
+    "interactive": "stories",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/hours.html",
+    "line": 1,
+    "section": "working-hours",
+    "open": "10:00",
+    "close": "23:00",
+    "live-status": "true",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/logo-symbol.html",
+    "line": 1,
+    "type": "shared-svg-defs",
+    "id": "varinaLogo",
+    "used-by": "profile,nav,story",
+    "colors": "red-gold"
+  },
+  {
+    "file": "index/nav.html",
+    "line": 1,
+    "section": "navigation",
+    "fixed": "true",
+    "video-btn": "navVideoBtn",
+    "avatar": "varinaLogo",
+    "ring": "44px",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/post-viewer.html",
+    "line": 1,
+    "section": "product-modal",
+    "interaction": "swipe,order-whatsapp",
+    "images": "images/<key><n>.jpg",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/posts.html",
+    "line": 1,
+    "section": "grid-tab",
+    "count": "12",
+    "interaction": "tap-open,double-tap-like",
+    "images": "images/<key><n>.jpg"
+  },
+  {
+    "file": "index/profile.html",
+    "line": 1,
+    "section": "identity",
+    "instagram": "iqvarin",
+    "source": "official-post",
+    "avatar": "varinaLogo",
+    "avatar-opens": "video",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/scripts.html",
+    "line": 1,
+    "section": "boot",
+    "libs": "qrcodejs-cdnjs",
+    "entry": "main.js"
+  },
+  {
+    "file": "index/services.html",
+    "line": 1,
+    "section": "list-tab",
+    "cards": "3",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/settings.html",
+    "line": 1,
+    "section": "settings-modal",
+    "type": "modal",
+    "music": "streaming-3-sources",
+    "persist": "varina-music",
+    "trigger": "settingsBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/splash.html",
+    "line": 1,
+    "section": "intro",
+    "type": "overlay",
+    "show": "first-entry-per-session",
+    "key": "varina-splash-seen",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/story.html",
+    "line": 1,
+    "section": "viewer",
+    "type": "modal",
+    "instagram": "iqvarin",
+    "avatar": "varinaLogo",
+    "lang": "ar,en"
+  },
+  {
+    "file": "index/tabs.html",
+    "line": 1,
+    "section": "navigation",
+    "controls": "grid,list,boards,qr"
+  },
+  {
+    "file": "index/video.html",
+    "line": 1,
+    "section": "showreel",
+    "type": "modal",
+    "autoplay": "muted-loop",
+    "source": "github-raw",
+    "triggers": "navVideoBtn,profileAvatarBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style.css",
+    "line": 1,
+    "role": "gatherer",
+    "source": "style/*.css"
+  },
+  {
+    "file": "style/base.css",
+    "line": 1,
+    "component": "layout",
+    "dir": "rtl,ltr",
+    "bg": "red"
+  },
+  {
+    "file": "style/boards.css",
+    "line": 1,
+    "component": "wood-decors",
+    "grid": "3col",
+    "render": "solid-colors",
+    "style": "flat-catalog",
+    "no-images": "true",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style/cards.css",
+    "line": 1,
+    "component": "services+contact",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style/header.css",
+    "line": 1,
+    "component": "topbar",
+    "sticky": "true"
+  },
+  {
+    "file": "style/highlights.css",
+    "line": 1,
+    "component": "stories-entry",
+    "scroll": "x"
+  },
+  {
+    "file": "style/hours.css",
+    "line": 1,
+    "component": "working-hours",
+    "live-status": "open-closed",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style/nav.css",
+    "line": 1,
+    "component": "bottom-nav",
+    "fixed": "true",
+    "video-btn": "navVideoBtn",
+    "ring": "44px"
+  },
+  {
+    "file": "style/posts.css",
+    "line": 1,
+    "component": "grid",
+    "interaction": "tap-open,double-tap-like",
+    "labels": "ar,en"
+  },
+  {
+    "file": "style/profile.css",
+    "line": 1,
+    "component": "identity",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style/settings.css",
+    "line": 1,
+    "component": "settings-modal",
+    "music-switch": "persisted",
+    "trigger": "header-gear",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style/splash.css",
+    "line": 1,
+    "component": "intro",
+    "overlay": "fixed",
+    "colors": "site-theme"
+  },
+  {
+    "file": "style/story.css",
+    "line": 1,
+    "component": "viewer",
+    "type": "modal"
+  },
+  {
+    "file": "style/variables.css",
+    "line": 1,
+    "component": "theme",
+    "palette": "red-gold"
+  },
+  {
+    "file": "style/video.css",
+    "line": 1,
+    "component": "showreel",
+    "type": "modal",
+    "autoplay": "muted-loop",
+    "triggers": "navVideoBtn,profileAvatarBtn",
+    "lang": "ar,en"
+  },
+  {
+    "file": "style/viewer.css",
+    "line": 1,
+    "component": "post-viewer",
+    "type": "modal",
+    "gallery": "swipe-x"
+  },
+  {
+    "file": "app.py",
+    "line": 2,
+    "role": "cli",
+    "commands": "build,tags,serve"
+  },
+  {
+    "file": "app/assembler.py",
+    "line": 2,
+    "module": "build",
+    "gathers": "index/*.html"
+  },
+  {
+    "file": "app/scraper.py",
+    "line": 2,
+    "module": "wood-decors",
+    "mode": "full-crawl",
+    "output": "wood.json + wood_cache/",
+    "convert": "images-to-color-codes",
+    "ssl": "flexible-fallback"
+  },
+  {
+    "file": "app/server.py",
+    "line": 2,
+    "module": "dev",
+    "port": "8000"
+  },
+  {
+    "file": "app/tagger.py",
+    "line": 2,
+    "module": "index",
+    "output": "tags.json"
+  },
+  {
+    "file": "app/__init__.py",
+    "line": 1,
+    "module": "app",
+    "role": "namespace"
+  }
+]

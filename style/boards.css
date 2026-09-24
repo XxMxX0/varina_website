@@ -1,0 +1,22 @@
+﻿/* @tag: boards-css | component: wood-decors | grid: 3col | render: solid-colors | style: flat-catalog | no-images: true | lang: ar,en */
+.boards{padding:14px 16px 20px;display:flex;flex-direction:column;gap:10px}
+.boards-title{font-size:1.05rem;font-weight:900;color:var(--gold)}
+.boards-sub{font-size:.8rem;color:var(--text-sub)}
+.boards-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.board-card{position:relative;aspect-ratio:1/1.12;border-radius:12px;overflow:hidden;border:1px solid rgba(255,255,255,.22);cursor:pointer;padding:0;display:flex;align-items:flex-end;justify-content:center;transition:transform .15s}
+.board-card:active{transform:scale(.96)}
+.board-tag{position:relative;z-index:2;width:100%;text-align:center;font-size:.66rem;font-weight:800;color:#fff;background:rgba(0,0,0,.5);padding:5px 3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.boards-hint{font-size:.8rem;color:var(--gold);background:rgba(0,0,0,.3);border:1px dashed var(--gold-soft);border-radius:10px;padding:12px;text-align:center;line-height:1.7}
+.board-modal{position:fixed;inset:0;z-index:1600;background:rgba(0,0,0,.6);backdrop-filter:blur(6px);display:flex;align-items:center;justify-content:center;padding:22px}
+.board-modal[hidden]{display:none}
+.board-modal-box{position:relative;width:100%;max-width:360px;background:linear-gradient(180deg,var(--red-800),#2b0206);border:1px solid var(--gold-soft);border-radius:18px;padding:18px;display:flex;flex-direction:column;gap:12px;text-align:center}
+.board-close{position:absolute;top:10px;inset-inline-end:10px;font-size:1.3rem;color:#fff;z-index:3}
+.board-big{height:190px;border-radius:14px;border:1px solid var(--line);display:flex;overflow:hidden}
+.board-sw{flex:1;position:relative;display:flex;align-items:flex-end;justify-content:center;padding-bottom:8px}
+.board-sw + .board-sw{border-inline-start:1px solid rgba(0,0,0,.12)}
+.board-sw b{font-family:monospace;font-size:.62rem;font-weight:700;color:#fff;background:rgba(0,0,0,.55);border-radius:6px;padding:3px 5px}
+.board-name{font-weight:900;color:var(--gold);font-size:1.05rem}
+.board-codes{display:flex;justify-content:center;gap:8px;flex-wrap:wrap}
+.board-codes span{font-family:monospace;font-size:.78rem;background:rgba(0,0,0,.4);border:1px solid var(--line);border-radius:8px;padding:5px 9px;color:#fff}
+.board-order{background:#1faa53;color:#fff;font-weight:800;padding:11px;border-radius:10px;display:flex;align-items:center;justify-content:center;gap:9px}
+.board-order:active{transform:scale(.97)}

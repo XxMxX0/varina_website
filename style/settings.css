@@ -1,0 +1,19 @@
+﻿/* @tag: settings-css | component: settings-modal | music-switch: persisted | trigger: header-gear | lang: ar,en */
+.settings-modal{position:fixed;inset:0;z-index:1800;background:rgba(0,0,0,.6);backdrop-filter:blur(6px);display:flex;align-items:center;justify-content:center;padding:22px}
+.settings-modal[hidden]{display:none}
+.settings-box{width:100%;max-width:340px;background:linear-gradient(180deg,var(--red-800),#2b0206);border:1px solid var(--gold-soft);border-radius:18px;padding:16px;display:flex;flex-direction:column;gap:14px;animation:sIn .25s ease}
+@keyframes sIn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.settings-head{display:flex;align-items:center;justify-content:space-between}
+.settings-title{font-weight:900;color:var(--gold);font-size:1.1rem}
+.settings-close{font-size:1.3rem;color:#fff;padding:4px}
+.settings-row{display:flex;align-items:center;gap:12px;background:rgba(0,0,0,.3);border:1px solid var(--line);border-radius:14px;padding:13px}
+.settings-icon{width:42px;height:42px;border-radius:12px;background:rgba(227,30,45,.35);display:flex;align-items:center;justify-content:center;color:var(--gold);font-size:1.05rem;flex-shrink:0}
+.settings-info{flex:1;min-width:0}
+.settings-info b{display:block;font-size:.95rem}
+.settings-info small{color:var(--text-sub);font-size:.72rem}
+.switch{width:48px;height:27px;border-radius:999px;background:rgba(0,0,0,.5);border:1px solid var(--line);position:relative;transition:background .2s,border-color .2s;flex-shrink:0}
+.switch .knob{position:absolute;top:2px;inset-inline-start:2px;width:21px;height:21px;border-radius:50%;background:#fff;transition:transform .2s;box-shadow:0 2px 6px rgba(0,0,0,.35)}
+.switch.on{background:var(--gold);border-color:var(--gold)}
+.switch.on .knob{transform:translateX(20px)}
+[dir="rtl"] .switch.on .knob{transform:translateX(-20px)}
+.settings-foot{text-align:center;color:var(--text-sub);font-size:.75rem;letter-spacing:2px;margin:0}

@@ -1,0 +1,17 @@
+﻿/* @tag: cards-css | component: services+contact | lang: ar,en */
+.services,.contact{padding:16px;display:flex;flex-direction:column;gap:12px}
+.card{position:relative;display:flex;align-items:center;gap:13px;background:var(--card);border:1px solid var(--gold-soft);border-radius:var(--radius);padding:15px;overflow:hidden;transition:transform .15s}
+.card::before{content:"";position:absolute;inset-block:0;inset-inline-end:0;width:4px;background:var(--gold)}
+.card:active{transform:scale(.985)}
+.card-icon{width:48px;height:48px;border-radius:12px;background:rgba(227,30,45,.35);display:flex;align-items:center;justify-content:center;font-size:1.4rem;color:var(--gold);flex-shrink:0}
+.card-body{flex:1}
+.card-body b{display:block;font-size:.98rem;margin-bottom:2px}
+.card-body small{color:var(--text-sub);font-size:.8rem;line-height:1.5}
+.card-arrow{color:var(--gold);font-size:.9rem}
+[dir="ltr"] .card-arrow{transform:rotate(180deg)}
+.qi-badge{align-self:center;background:linear-gradient(90deg,#ffd700,#ffa500);color:#000;font-weight:800;font-size:.85rem;padding:8px 16px;border-radius:999px;display:inline-flex;gap:8px;align-items:center}
+.qr-frame{align-self:center;background:#fff;padding:10px;border-radius:16px;box-shadow:0 6px 24px rgba(0,0,0,.45)}
+.qr-caption{align-self:center;font-weight:700;color:var(--gold)}
+.qr-handle{align-self:center;color:var(--text-sub);font-size:.85rem;letter-spacing:1px}
+.phones{display:flex;flex-direction:column;gap:8px;margin-top:4px}
+.phones a{background:var(--card-strong);border:1px solid var(--line);color:var(--gold);font-weight:800;font-size:1.05rem;padding:12px;border-radius:10px;display:flex;justify-content:center;align-items:center;gap:10px}

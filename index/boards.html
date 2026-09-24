@@ -1,0 +1,18 @@
+﻿<!-- @tag: boards | section: boards-tab | source: wood.json | data: app/scraper.py | render: css-gradients | lang: ar,en -->
+<section class="boards" id="section-boards" data-section="section-boards" hidden>
+  <h2 class="boards-title" data-ar="ألواحنا وتصاميم الخشب" data-en="Our Boards & Wood Designs">ألواحنا وتصاميم الخشب</h2>
+  <p class="boards-sub" data-ar="اضغط أي لوح لعرض كوده وطلبه" data-en="Tap any board to view its code & order">اضغط أي لوح لعرض كوده وطلبه</p>
+  <div class="boards-grid" id="boardsGrid"></div>
+  <p class="boards-hint" id="boardsHint" data-ar="لا توجد بيانات ألواح بعد — شغّل: python app\scraper.py" data-en="No board data yet — run: python app\scraper.py">لا توجد بيانات ألواح بعد — شغّل: python app\scraper.py</p>
+  <div class="board-modal" id="boardModal" hidden>
+    <div class="board-modal-box">
+      <button class="board-close" id="boardClose" aria-label="close"><i class="fas fa-xmark"></i></button>
+      <div class="board-big" id="boardBig"></div>
+      <b class="board-name" id="boardName"></b>
+      <div class="board-codes" id="boardCodes"></div>
+      <a class="board-order" id="boardOrder" target="_blank" rel="noopener">
+        <i class="fab fa-whatsapp"></i><span data-ar="اطلب هذا اللوح" data-en="Order this board">اطلب هذا اللوح</span>
+      </a>
+    </div>
+  </div>
+</section>

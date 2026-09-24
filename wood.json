@@ -1,0 +1,4065 @@
+{
+  "_tag": "wood-decors | source: yildizentegre | crawl: full | converted: code-not-images",
+  "boards": [
+    {
+      "id": "aura-mermer",
+      "name_en": "Aura Mermer",
+      "name_ar": "لوح Aura Mermer",
+      "colors": [
+        "#c1b5a9",
+        "#c3b6ac",
+        "#c5baaf",
+        "#c0b2a6",
+        "#beb1a5",
+        "#bdaea1"
+      ],
+      "ref": "wood_cache/aura-mermer.jpg"
+    },
+    {
+      "id": "doruk-mermer",
+      "name_en": "Doruk Mermer",
+      "name_ar": "لوح Doruk Mermer",
+      "colors": [
+        "#f4f0ec",
+        "#eee9e5",
+        "#f3eee9",
+        "#f7f4f0",
+        "#e6ded7",
+        "#f1ebe6"
+      ],
+      "ref": "wood_cache/doruk-mermer.jpg"
+    },
+    {
+      "id": "keten-chevron",
+      "name_en": "Keten Chevron",
+      "name_ar": "لوح Keten Chevron",
+      "colors": [
+        "#d2c3b4",
+        "#d3c4b5",
+        "#d5c7b7",
+        "#d3c5b5",
+        "#d5c5b6",
+        "#d3c6b6"
+      ],
+      "ref": "wood_cache/keten-chevron.jpg"
+    },
+    {
+      "id": "kristal-oniks",
+      "name_en": "Kristal Oniks",
+      "name_ar": "لوح Kristal Oniks",
+      "colors": [
+        "#bdb7ab",
+        "#b5afa3",
+        "#bbb4a9",
+        "#bfb9ae",
+        "#c2bdb1",
+        "#b9b3a7"
+      ],
+      "ref": "wood_cache/kristal-oniks.jpg"
+    },
+    {
+      "id": "vero-ceviz",
+      "name_en": "Vero Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#a18560",
+        "#957a58",
+        "#9d815d",
+        "#a58963",
+        "#9a7f5d",
+        "#a98d66"
+      ],
+      "ref": "wood_cache/vero-ceviz.jpg"
+    },
+    {
+      "id": "salda-bej",
+      "name_en": "Salda Bej",
+      "name_ar": "بيج",
+      "colors": [
+        "#d8d5cc",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd"
+      ],
+      "ref": "wood_cache/salda-bej.jpg"
+    },
+    {
+      "id": "sat-xfc-rn-bej",
+      "name_en": "Sat&#xFC;rn Bej",
+      "name_ar": "بيج",
+      "colors": [
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba"
+      ],
+      "ref": "wood_cache/sat-xfc-rn-bej.jpg"
+    },
+    {
+      "id": "moka-kahve",
+      "name_en": "Moka Kahve",
+      "name_ar": "بني",
+      "colors": [
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a"
+      ],
+      "ref": "wood_cache/moka-kahve.jpg"
+    },
+    {
+      "id": "ihlamur-ye-x15f-ili",
+      "name_en": "Ihlamur Ye&#x15F;ili",
+      "name_ar": "لوح Ihlamur Ye&#x15F;ili",
+      "colors": [
+        "#c3ccbb",
+        "#c3ccbb",
+        "#c3ccbb",
+        "#c3ccbb",
+        "#c3ccbb",
+        "#c3ccbb"
+      ],
+      "ref": "wood_cache/ihlamur-ye-x15f-ili.jpg"
+    },
+    {
+      "id": "mistik-m-xfc-rd-xfc-m",
+      "name_en": "Mistik M&#xFC;rd&#xFC;m",
+      "name_ar": "لوح Mistik M&#xFC;rd&#xFC;m",
+      "colors": [
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c"
+      ],
+      "ref": "wood_cache/mistik-m-xfc-rd-xfc-m.jpg"
+    },
+    {
+      "id": "zen-traverten",
+      "name_en": "Zen Traverten",
+      "name_ar": "لوح Zen Traverten",
+      "colors": [
+        "#cfc8b9",
+        "#cec7b7",
+        "#ccc5b5",
+        "#d3ccbe",
+        "#cac3b3",
+        "#c7c0b1"
+      ],
+      "ref": "wood_cache/zen-traverten.jpg"
+    },
+    {
+      "id": "vi-x15f-ne-mermer",
+      "name_en": "Vi&#x15F;ne Mermer",
+      "name_ar": "لوح Vi&#x15F;ne Mermer",
+      "colors": [
+        "#674c45",
+        "#62453f",
+        "#6e5751",
+        "#6d524b",
+        "#67514c",
+        "#79655e"
+      ],
+      "ref": "wood_cache/vi-x15f-ne-mermer.jpg"
+    },
+    {
+      "id": "vadi-me-x15f-e",
+      "name_en": "Vadi Me&#x15F;e",
+      "name_ar": "لوح Vadi Me&#x15F;e",
+      "colors": [
+        "#b39571",
+        "#b69773",
+        "#ab8d69",
+        "#ae916d",
+        "#b1926e",
+        "#ba9c77"
+      ],
+      "ref": "wood_cache/vadi-me-x15f-e.jpg"
+    },
+    {
+      "id": "sahra-me-x15f-e",
+      "name_en": "Sahra Me&#x15F;e",
+      "name_ar": "لوح Sahra Me&#x15F;e",
+      "colors": [
+        "#bea88d",
+        "#b9a489",
+        "#bca58b",
+        "#b7a086",
+        "#bfaa8f",
+        "#c2ad92"
+      ],
+      "ref": "wood_cache/sahra-me-x15f-e.jpg"
+    },
+    {
+      "id": "ba-x15f-ak-me-x15f-e",
+      "name_en": "Ba&#x15F;ak Me&#x15F;e",
+      "name_ar": "لوح Ba&#x15F;ak Me&#x15F;e",
+      "colors": [
+        "#ac8657",
+        "#a68051",
+        "#b38d5e",
+        "#ae885a",
+        "#b08a5b",
+        "#b79264"
+      ],
+      "ref": "wood_cache/ba-x15f-ak-me-x15f-e.jpg"
+    },
+    {
+      "id": "amber-ceviz",
+      "name_en": "Amber Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#7f6655",
+        "#856b59",
+        "#8a705d",
+        "#7b6352",
+        "#836957",
+        "#806957"
+      ],
+      "ref": "wood_cache/amber-ceviz.jpg"
+    },
+    {
+      "id": "bergamo-ceviz",
+      "name_en": "Bergamo Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#765d49",
+        "#7c634e",
+        "#745a46",
+        "#795f4b",
+        "#715945",
+        "#6e5541"
+      ],
+      "ref": "wood_cache/bergamo-ceviz.jpg"
+    },
+    {
+      "id": "ultra-beyaz",
+      "name_en": "Ultra Beyaz",
+      "name_ar": "أبيض",
+      "colors": [
+        "#ffffff",
+        "#ffffff",
+        "#ffffff",
+        "#ffffff",
+        "#ffffff",
+        "#ffffff"
+      ],
+      "ref": "wood_cache/ultra-beyaz.jpg"
+    },
+    {
+      "id": "beyaz",
+      "name_en": "Beyaz",
+      "name_ar": "أبيض",
+      "colors": [
+        "#fffffd",
+        "#fffffd",
+        "#fffffd",
+        "#fffffd",
+        "#fffffd",
+        "#fffffd"
+      ],
+      "ref": "wood_cache/beyaz.jpg"
+    },
+    {
+      "id": "m-beyaz",
+      "name_en": "M-Beyaz",
+      "name_ar": "أبيض",
+      "colors": [
+        "#f8f7f2",
+        "#f8f7f2",
+        "#f8f7f2",
+        "#f8f7f2",
+        "#f8f7f2",
+        "#f8f7f2"
+      ],
+      "ref": "wood_cache/m-beyaz.jpg"
+    },
+    {
+      "id": "sedef-krem",
+      "name_en": "Sedef Krem",
+      "name_ar": "كريمي",
+      "colors": [
+        "#f4eee2",
+        "#f4eee2",
+        "#f4eee2",
+        "#f4eee2",
+        "#f4eee2",
+        "#f4eee2"
+      ],
+      "ref": "wood_cache/sedef-krem.jpg"
+    },
+    {
+      "id": "vt_010",
+      "name_en": "Bej",
+      "name_ar": "بيج",
+      "colors": [
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe"
+      ],
+      "ref": "wood_cache/vt_010.jpg"
+    },
+    {
+      "id": "krem",
+      "name_en": "Krem",
+      "name_ar": "كريمي",
+      "colors": [
+        "#f3e0c2",
+        "#f3e0c2",
+        "#f3e0c2",
+        "#f3e0c2",
+        "#f3e0c2",
+        "#f3e0c2"
+      ],
+      "ref": "wood_cache/krem.jpg"
+    },
+    {
+      "id": "vario-vizon",
+      "name_en": "Vario Vizon",
+      "name_ar": "لوح Vario Vizon",
+      "colors": [
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8"
+      ],
+      "ref": "wood_cache/vario-vizon.jpg"
+    },
+    {
+      "id": "mozambik",
+      "name_en": "Mozambik",
+      "name_ar": "لوح Mozambik",
+      "colors": [
+        "#dbd5c9",
+        "#dbd5c9",
+        "#dbd5c9",
+        "#dbd5c9",
+        "#dbd5c9",
+        "#dbd5c9"
+      ],
+      "ref": "wood_cache/mozambik.jpg"
+    },
+    {
+      "id": "ofis-gri",
+      "name_en": "Ofis Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#d4d1ca",
+        "#d4d1ca",
+        "#d4d1ca",
+        "#d4d1ca",
+        "#d4d1ca",
+        "#d4d1ca"
+      ],
+      "ref": "wood_cache/ofis-gri.jpg"
+    },
+    {
+      "id": "vt_237",
+      "name_en": "Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#9b9683",
+        "#9d9885",
+        "#a19c89",
+        "#9f9a87",
+        "#9a9682",
+        "#999482"
+      ],
+      "ref": "wood_cache/vt_237.jpg"
+    },
+    {
+      "id": "sis-gri",
+      "name_en": "Sis Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#b0afab",
+        "#b0afab",
+        "#b0afab",
+        "#b0afab",
+        "#b0afab",
+        "#b0afab"
+      ],
+      "ref": "wood_cache/sis-gri.jpg"
+    },
+    {
+      "id": "kadife-gri",
+      "name_en": "Kadife Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#9d989c",
+        "#9d989c",
+        "#9d989c",
+        "#9d989c",
+        "#9d989c",
+        "#9d989c"
+      ],
+      "ref": "wood_cache/kadife-gri.jpg"
+    },
+    {
+      "id": "k-xfc-l-gri",
+      "name_en": "K&#xFC;l Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#a59c93",
+        "#a59c93",
+        "#a59c93",
+        "#a59c93",
+        "#a59c93",
+        "#a59c93"
+      ],
+      "ref": "wood_cache/k-xfc-l-gri.jpg"
+    },
+    {
+      "id": "xc7-xf6-l-beji",
+      "name_en": "&#xC7;&#xF6;l Beji",
+      "name_ar": "بيج",
+      "colors": [
+        "#c3bbb0",
+        "#c3bbb0",
+        "#c3bbb0",
+        "#c3bbb0",
+        "#c3bbb0",
+        "#c3bbb0"
+      ],
+      "ref": "wood_cache/xc7-xf6-l-beji.jpg"
+    },
+    {
+      "id": "xc7-ak-x131-l-ta-x15f-x131",
+      "name_en": "&#xC7;ak&#x131;l Ta&#x15F;&#x131;",
+      "name_ar": "لوح &#xC7;ak&#x131;l Ta&#x15F;&#x131;",
+      "colors": [
+        "#cbc2bb",
+        "#cbc2bb",
+        "#cbc2bb",
+        "#cbc2bb",
+        "#cbc2bb",
+        "#cbc2bb"
+      ],
+      "ref": "wood_cache/xc7-ak-x131-l-ta-x15f-x131.jpg"
+    },
+    {
+      "id": "kum-beji",
+      "name_en": "Kum Beji",
+      "name_ar": "بيج",
+      "colors": [
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0"
+      ],
+      "ref": "wood_cache/kum-beji.jpg"
+    },
+    {
+      "id": "x130-nci-kum",
+      "name_en": "&#x130;nci Kum",
+      "name_ar": "لوح &#x130;nci Kum",
+      "colors": [
+        "#afa69d",
+        "#afa69d",
+        "#afa69d",
+        "#afa69d",
+        "#afa69d",
+        "#afa69d"
+      ],
+      "ref": "wood_cache/x130-nci-kum.jpg"
+    },
+    {
+      "id": "selenit",
+      "name_en": "Selenit",
+      "name_ar": "لوح Selenit",
+      "colors": [
+        "#b0a090",
+        "#b0a090",
+        "#b0a090",
+        "#b0a090",
+        "#b0a090",
+        "#b0a090"
+      ],
+      "ref": "wood_cache/selenit.jpg"
+    },
+    {
+      "id": "sahra",
+      "name_en": "Sahra",
+      "name_ar": "لوح Sahra",
+      "colors": [
+        "#b5a691",
+        "#b5a691",
+        "#b5a691",
+        "#b5a691",
+        "#b5a691",
+        "#b5a691"
+      ],
+      "ref": "wood_cache/sahra.jpg"
+    },
+    {
+      "id": "cappuccino",
+      "name_en": "Cappuccino",
+      "name_ar": "لوح Cappuccino",
+      "colors": [
+        "#cbb198",
+        "#cbb198",
+        "#cbb198",
+        "#cbb198",
+        "#cbb198",
+        "#cbb198"
+      ],
+      "ref": "wood_cache/cappuccino.jpg"
+    },
+    {
+      "id": "x130-zola",
+      "name_en": "&#x130;zola",
+      "name_ar": "لوح &#x130;zola",
+      "colors": [
+        "#ae9483",
+        "#ae9483",
+        "#ae9483",
+        "#ae9483",
+        "#ae9483",
+        "#ae9483"
+      ],
+      "ref": "wood_cache/x130-zola.jpg"
+    },
+    {
+      "id": "toprak",
+      "name_en": "Toprak",
+      "name_ar": "لوح Toprak",
+      "colors": [
+        "#7b746c",
+        "#7b746c",
+        "#7b746c",
+        "#7b746c",
+        "#7b746c",
+        "#7b746c"
+      ],
+      "ref": "wood_cache/toprak.jpg"
+    },
+    {
+      "id": "barbados",
+      "name_en": "Barbados",
+      "name_ar": "لوح Barbados",
+      "colors": [
+        "#5f554c",
+        "#5f554c",
+        "#5f554c",
+        "#5f554c",
+        "#5f554c",
+        "#5f554c"
+      ],
+      "ref": "wood_cache/barbados.jpg"
+    },
+    {
+      "id": "vita",
+      "name_en": "Vita",
+      "name_ar": "لوح Vita",
+      "colors": [
+        "#72716f",
+        "#72716f",
+        "#72716f",
+        "#72716f",
+        "#72716f",
+        "#72716f"
+      ],
+      "ref": "wood_cache/vita.jpg"
+    },
+    {
+      "id": "karbon-gri",
+      "name_en": "Karbon Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#505358",
+        "#505358",
+        "#505358",
+        "#505358",
+        "#505358",
+        "#505358"
+      ],
+      "ref": "wood_cache/karbon-gri.jpg"
+    },
+    {
+      "id": "koyu-gri",
+      "name_en": "Koyu Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#5e5f59",
+        "#5e5f59",
+        "#5e5f59",
+        "#5e5f59",
+        "#5e5f59",
+        "#5e5f59"
+      ],
+      "ref": "wood_cache/koyu-gri.jpg"
+    },
+    {
+      "id": "melisa",
+      "name_en": "Melisa",
+      "name_ar": "لوح Melisa",
+      "colors": [
+        "#829c91",
+        "#829c91",
+        "#829c91",
+        "#829c91",
+        "#829c91",
+        "#829c91"
+      ],
+      "ref": "wood_cache/melisa.jpg"
+    },
+    {
+      "id": "sardunya",
+      "name_en": "Sardunya",
+      "name_ar": "لوح Sardunya",
+      "colors": [
+        "#7d7e5f",
+        "#7d7e5f",
+        "#7d7e5f",
+        "#7d7e5f",
+        "#7d7e5f",
+        "#7d7e5f"
+      ],
+      "ref": "wood_cache/sardunya.jpg"
+    },
+    {
+      "id": "dubrovnik",
+      "name_en": "Dubrovnik",
+      "name_ar": "لوح Dubrovnik",
+      "colors": [
+        "#9a9c91",
+        "#9a9c91",
+        "#9a9c91",
+        "#9a9c91",
+        "#9a9c91",
+        "#9a9c91"
+      ],
+      "ref": "wood_cache/dubrovnik.jpg"
+    },
+    {
+      "id": "silva",
+      "name_en": "Silva",
+      "name_ar": "لوح Silva",
+      "colors": [
+        "#394e47",
+        "#394e47",
+        "#394e47",
+        "#394e47",
+        "#394e47",
+        "#394e47"
+      ],
+      "ref": "wood_cache/silva.jpg"
+    },
+    {
+      "id": "barok-mavi",
+      "name_en": "Barok Mavi",
+      "name_ar": "أزرق",
+      "colors": [
+        "#c8f1eb",
+        "#c8f1eb",
+        "#c8f1eb",
+        "#c8f1eb",
+        "#c8f1eb",
+        "#c8f1eb"
+      ],
+      "ref": "wood_cache/barok-mavi.jpg"
+    },
+    {
+      "id": "terra-rosso-kapak-panel-mat",
+      "name_en": "Terra Rosso  KAPAK PANEL MAT",
+      "name_ar": "لوح Terra Rosso  KAPAK PANEL MAT",
+      "colors": [
+        "#382020",
+        "#382020",
+        "#382020",
+        "#382020",
+        "#382020",
+        "#382020"
+      ],
+      "ref": "wood_cache/terra-rosso-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "duru-mermer-kapak-panel-mat",
+      "name_en": "Duru Mermer KAPAK PANEL MAT",
+      "name_ar": "لوح Duru Mermer KAPAK PANEL MAT",
+      "colors": [
+        "#efeeea",
+        "#eeede9",
+        "#f0efec",
+        "#e9e8e3",
+        "#efeee9",
+        "#eeeee9"
+      ],
+      "ref": "wood_cache/duru-mermer-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "kutup-ta-x15f-x131-kapak-panel-mat",
+      "name_en": "Kutup Ta&#x15F;&#x131; KAPAK PANEL MAT",
+      "name_ar": "لوح Kutup Ta&#x15F;&#x131; KAPAK PANEL MAT",
+      "colors": [
+        "#e1dacd",
+        "#e4ddd1",
+        "#e2dbce",
+        "#e3dccf",
+        "#dfd9cb",
+        "#dfd7ca"
+      ],
+      "ref": "wood_cache/kutup-ta-x15f-x131-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "k-xfc-ll-xfc-beton-kapak-panel-mat",
+      "name_en": "K&#xFC;ll&#xFC; Beton KAPAK PANEL MAT",
+      "name_ar": "لوح K&#xFC;ll&#xFC; Beton KAPAK PANEL MAT",
+      "colors": [
+        "#b8b7b4",
+        "#b5b4b2",
+        "#b9b8b6",
+        "#bdbcba",
+        "#bab9b7",
+        "#bbbab8"
+      ],
+      "ref": "wood_cache/k-xfc-ll-xfc-beton-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "kanyon-bej-kapak-panel-mat",
+      "name_en": "Kanyon Bej KAPAK PANEL MAT",
+      "name_ar": "بيج",
+      "colors": [
+        "#d1cac0",
+        "#cdc6bc",
+        "#ccc5ba",
+        "#c6bfb5",
+        "#cac3b9",
+        "#cfc8be"
+      ],
+      "ref": "wood_cache/kanyon-bej-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "kanyon-gri-kapak-panel-mat",
+      "name_en": "Kanyon Gri KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#8e877f",
+        "#918a82",
+        "#8c857d",
+        "#867f77",
+        "#8a837b",
+        "#8f8880"
+      ],
+      "ref": "wood_cache/kanyon-gri-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "gri-xc7-izgi-kapak-panel-mat",
+      "name_en": "Gri &#xC7;izgi KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#969593",
+        "#939290",
+        "#9d9c9a",
+        "#9a9997",
+        "#9c9b99",
+        "#989795"
+      ],
+      "ref": "wood_cache/gri-xc7-izgi-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "doris-kapak-panel-mat",
+      "name_en": "Doris KAPAK PANEL MAT",
+      "name_ar": "لوح Doris KAPAK PANEL MAT",
+      "colors": [
+        "#bbb5aa",
+        "#a9a297",
+        "#b8b2a7",
+        "#bcb7ac",
+        "#c0bbb0",
+        "#b2aca1"
+      ],
+      "ref": "wood_cache/doris-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "tess-kapak-panel-mat",
+      "name_en": "Tess KAPAK PANEL MAT",
+      "name_ar": "لوح Tess KAPAK PANEL MAT",
+      "colors": [
+        "#aea59c",
+        "#b0a89e",
+        "#b4aca3",
+        "#aba299",
+        "#b3aaa1",
+        "#b2a9a0"
+      ],
+      "ref": "wood_cache/tess-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "naro-kapak-panel-mat",
+      "name_en": "Naro KAPAK PANEL MAT",
+      "name_ar": "لوح Naro KAPAK PANEL MAT",
+      "colors": [
+        "#5d5552",
+        "#68615e",
+        "#6d6663",
+        "#706966",
+        "#645c59",
+        "#605956"
+      ],
+      "ref": "wood_cache/naro-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "callisto-kapak-panel-mat",
+      "name_en": "Callisto KAPAK PANEL MAT",
+      "name_ar": "لوح Callisto KAPAK PANEL MAT",
+      "colors": [
+        "#d9d2c9",
+        "#e2dbd4",
+        "#ddd6ce",
+        "#dbd4cb",
+        "#d3ccc3",
+        "#dfd9d0"
+      ],
+      "ref": "wood_cache/callisto-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "nove-kapak-panel-mat",
+      "name_en": "Nove KAPAK PANEL MAT",
+      "name_ar": "لوح Nove KAPAK PANEL MAT",
+      "colors": [
+        "#897d6e",
+        "#8a8071",
+        "#86796b",
+        "#837969",
+        "#877b6d",
+        "#817667"
+      ],
+      "ref": "wood_cache/nove-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "beton-gri-kapak-panel-mat",
+      "name_en": "Beton Gri KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#cac5c1",
+        "#ccc8c4",
+        "#cfcbc6",
+        "#c8c3bf",
+        "#cbc6c2",
+        "#c5c0bc"
+      ],
+      "ref": "wood_cache/beton-gri-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "ceres-kapak-panel-mat",
+      "name_en": "Ceres KAPAK PANEL MAT",
+      "name_ar": "لوح Ceres KAPAK PANEL MAT",
+      "colors": [
+        "#8e8e8e",
+        "#919191",
+        "#8f8f8f",
+        "#8d8d8d",
+        "#8c8c8c",
+        "#8b8b8b"
+      ],
+      "ref": "wood_cache/ceres-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "antik-bronz-kapak-panel-mat",
+      "name_en": "Antik Bronz KAPAK PANEL MAT",
+      "name_ar": "لوح Antik Bronz KAPAK PANEL MAT",
+      "colors": [
+        "#5e5449",
+        "#5c5147",
+        "#5f554b",
+        "#61564c",
+        "#61574d",
+        "#64594f"
+      ],
+      "ref": "wood_cache/antik-bronz-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "beyaz-kapak-panel-mat",
+      "name_en": "Beyaz KAPAK PANEL MAT",
+      "name_ar": "أبيض",
+      "colors": [
+        "#f8f8f6",
+        "#f8f8f6",
+        "#f8f8f6",
+        "#f8f8f6",
+        "#f8f8f6",
+        "#f8f8f6"
+      ],
+      "ref": "wood_cache/beyaz-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "natural-beyaz-kapak-panel-mat",
+      "name_en": "Natural Beyaz KAPAK PANEL MAT",
+      "name_ar": "أبيض",
+      "colors": [
+        "#e8e9e3",
+        "#e8e9e3",
+        "#e8e9e3",
+        "#e8e9e3",
+        "#e8e9e3",
+        "#e8e9e3"
+      ],
+      "ref": "wood_cache/natural-beyaz-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "a-xe7-x131-k-bej-kapak-panel-mat",
+      "name_en": "A&#xE7;&#x131;k Bej KAPAK PANEL MAT",
+      "name_ar": "بيج",
+      "colors": [
+        "#d5d1c8",
+        "#d5d1c8",
+        "#d5d1c8",
+        "#d5d1c8",
+        "#d5d1c8",
+        "#d5d1c8"
+      ],
+      "ref": "wood_cache/a-xe7-x131-k-bej-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "a-xe7-x131-k-gri-kapak-panel-mat",
+      "name_en": "A&#xE7;&#x131;k Gri KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#efebe0",
+        "#efebe0",
+        "#efebe0",
+        "#efebe0",
+        "#efebe0",
+        "#efebe0"
+      ],
+      "ref": "wood_cache/a-xe7-x131-k-gri-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "soft-gri-kapak-panel-mat",
+      "name_en": "Soft Gri KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#c9bbae",
+        "#c9bbae",
+        "#c9bbae",
+        "#c9bbae",
+        "#c9bbae",
+        "#c9bbae"
+      ],
+      "ref": "wood_cache/soft-gri-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "pudra-bej-kapak-panel-mat",
+      "name_en": "Pudra Bej KAPAK PANEL MAT",
+      "name_ar": "بيج",
+      "colors": [
+        "#c7bbad",
+        "#c7bbad",
+        "#c7bbad",
+        "#c7bbad",
+        "#c7bbad",
+        "#c7bbad"
+      ],
+      "ref": "wood_cache/pudra-bej-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "pastel-bej-kapak-panel-mat",
+      "name_en": "Pastel Bej KAPAK PANEL MAT",
+      "name_ar": "بيج",
+      "colors": [
+        "#baac9f",
+        "#baac9f",
+        "#baac9f",
+        "#baac9f",
+        "#baac9f",
+        "#baac9f"
+      ],
+      "ref": "wood_cache/pastel-bej-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "modern-gri-kapak-panel-mat",
+      "name_en": "Modern Gri KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#a3a2a0",
+        "#a3a2a0",
+        "#a3a2a0",
+        "#a3a2a0",
+        "#a3a2a0",
+        "#a3a2a0"
+      ],
+      "ref": "wood_cache/modern-gri-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "so-x11f-uk-gri-kapak-panel-mat",
+      "name_en": "So&#x11F;uk Gri KAPAK PANEL MAT",
+      "name_ar": "رمادي",
+      "colors": [
+        "#ccccca",
+        "#ccccca",
+        "#ccccca",
+        "#ccccca",
+        "#ccccca",
+        "#ccccca"
+      ],
+      "ref": "wood_cache/so-x11f-uk-gri-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "salda-bej-lak-panel-super-gloss",
+      "name_en": "Salda Bej LAK PANEL SUPER GLOSS",
+      "name_ar": "بيج",
+      "colors": [
+        "#d8d5cc",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd"
+      ],
+      "ref": "wood_cache/salda-bej-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "salda-bej-lak-panel-superior-matt",
+      "name_en": "Salda Bej LAK PANEL SUPERIOR MATT",
+      "name_ar": "بيج",
+      "colors": [
+        "#d8d5cc",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd",
+        "#d9d6cd"
+      ],
+      "ref": "wood_cache/salda-bej-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "kristal-oniks-lak-panel-super-gloss",
+      "name_en": "Kristal Oniks LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#bdb7ab",
+        "#b5afa3",
+        "#bbb4a9",
+        "#bfb9ae",
+        "#c2bdb1",
+        "#b9b3a7"
+      ],
+      "ref": "wood_cache/kristal-oniks-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "aura-mermer-lak-panel-super-gloss",
+      "name_en": "Aura Mermer LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#c1b5a9",
+        "#c3b6ac",
+        "#c5baaf",
+        "#c0b2a6",
+        "#beb1a5",
+        "#bdaea1"
+      ],
+      "ref": "wood_cache/aura-mermer-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "doruk-mermer-lak-panel-super-gloss",
+      "name_en": "Doruk Mermer LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#f4f0ec",
+        "#eee9e5",
+        "#f3eee9",
+        "#f7f4f0",
+        "#e6ded7",
+        "#f1ebe6"
+      ],
+      "ref": "wood_cache/doruk-mermer-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "sat-xfc-rn-bej-lak-panel-superior-matt",
+      "name_en": "Sat&#xFC;rn Bej LAK PANEL SUPERIOR MATT",
+      "name_ar": "بيج",
+      "colors": [
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba"
+      ],
+      "ref": "wood_cache/sat-xfc-rn-bej-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "sat-xfc-rn-bej-lak-panel-super-gloss",
+      "name_en": "Sat&#xFC;rn Bej LAK PANEL SUPER GLOSS",
+      "name_ar": "بيج",
+      "colors": [
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba",
+        "#d4cbba"
+      ],
+      "ref": "wood_cache/sat-xfc-rn-bej-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "moka-kahve-lak-panel-superior-matt",
+      "name_en": "Moka Kahve  LAK PANEL SUPERIOR MATT",
+      "name_ar": "لامع",
+      "colors": [
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a"
+      ],
+      "ref": "wood_cache/moka-kahve-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "mistik-m-xfc-rd-xfc-m-lak-panel-super-gloss",
+      "name_en": "Mistik M&#xFC;rd&#xFC;m LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c"
+      ],
+      "ref": "wood_cache/mistik-m-xfc-rd-xfc-m-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "mistik-m-xfc-rd-xfc-m-lak-panel-superior-matt",
+      "name_en": "Mistik M&#xFC;rd&#xFC;m LAK PANEL SUPERIOR MATT",
+      "name_ar": "لامع",
+      "colors": [
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c",
+        "#53484c"
+      ],
+      "ref": "wood_cache/mistik-m-xfc-rd-xfc-m-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "moka-kahve-lak-panel-super-gloss",
+      "name_en": "Moka Kahve LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a",
+        "#9f7a6a"
+      ],
+      "ref": "wood_cache/moka-kahve-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "beyaz-kardelen-lak-panel-superior-matt",
+      "name_en": "Beyaz Kardelen LAK PANEL SUPERIOR MATT",
+      "name_ar": "أبيض",
+      "colors": [
+        "#eae9ee",
+        "#eae9ee",
+        "#eae9ee",
+        "#eae9ee",
+        "#eae9ee",
+        "#eae9ee"
+      ],
+      "ref": "wood_cache/beyaz-kardelen-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "beyaz-lak-panel-superior-matt",
+      "name_en": "Beyaz LAK PANEL SUPERIOR MATT",
+      "name_ar": "أبيض",
+      "colors": [
+        "#ffffff",
+        "#ffffff",
+        "#ffffff",
+        "#ffffff",
+        "#ffffff",
+        "#ffffff"
+      ],
+      "ref": "wood_cache/beyaz-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "kar-beyaz-lak-panel-superior-matt",
+      "name_en": "Kar Beyaz LAK PANEL SUPERIOR MATT",
+      "name_ar": "أبيض",
+      "colors": [
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5"
+      ],
+      "ref": "wood_cache/kar-beyaz-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "zen-traverten-lak-panel-super-gloss",
+      "name_en": "Zen Traverten LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#cfc8b9",
+        "#cec7b7",
+        "#ccc5b5",
+        "#d3ccbe",
+        "#cac3b3",
+        "#c7c0b1"
+      ],
+      "ref": "wood_cache/zen-traverten-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "sedef-krem-lak-panel-superior-matt",
+      "name_en": "Sedef Krem LAK PANEL SUPERIOR MATT",
+      "name_ar": "كريمي",
+      "colors": [
+        "#f4f4f4",
+        "#f3f3f3",
+        "#f0f0f0",
+        "#f2f2f2",
+        "#f2f2f2",
+        "#f2f2f2"
+      ],
+      "ref": "wood_cache/sedef-krem-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "mozambik-lak-panel-superior-matt",
+      "name_en": "Mozambik LAK PANEL SUPERIOR MATT",
+      "name_ar": "لامع",
+      "colors": [
+        "#c8c5be",
+        "#c8c5be",
+        "#c8c5be",
+        "#c8c5be",
+        "#c8c5be",
+        "#c8c5be"
+      ],
+      "ref": "wood_cache/mozambik-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "vi-x15f-ne-mermer-lak-panel-super-gloss",
+      "name_en": "Vi&#x15F;ne Mermer LAK PANEL SUPER GLOSS",
+      "name_ar": "لامع",
+      "colors": [
+        "#674c45",
+        "#62453f",
+        "#6e5751",
+        "#6d524b",
+        "#67514c",
+        "#79655e"
+      ],
+      "ref": "wood_cache/vi-x15f-ne-mermer-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "beyaz-kardelen-lak-panel-super-gloss",
+      "name_en": "Beyaz Kardelen LAK PANEL SUPER GLOSS",
+      "name_ar": "أبيض",
+      "colors": [
+        "#e8e7ec",
+        "#e8e7ec",
+        "#e8e7ec",
+        "#e8e7ec",
+        "#e8e7ec",
+        "#e8e7ec"
+      ],
+      "ref": "wood_cache/beyaz-kardelen-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "vario-vizon-lak-panel-superior-matt",
+      "name_en": "Vario Vizon LAK PANEL SUPERIOR MATT",
+      "name_ar": "لامع",
+      "colors": [
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8",
+        "#dfcfb8"
+      ],
+      "ref": "wood_cache/vario-vizon-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "kum-beji-lak-panel-superior-matt",
+      "name_en": "Kum Beji LAK PANEL SUPERIOR MATT",
+      "name_ar": "بيج",
+      "colors": [
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0",
+        "#cec1b0"
+      ],
+      "ref": "wood_cache/kum-beji-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "kar-beyaz-lak-panel-super-gloss",
+      "name_en": "Kar Beyaz LAK PANEL SUPER GLOSS",
+      "name_ar": "أبيض",
+      "colors": [
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5",
+        "#fbfaf5"
+      ],
+      "ref": "wood_cache/kar-beyaz-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "cappuccino-lak-panel-superior-matt",
+      "name_en": "Cappuccino LAK PANEL SUPERIOR MATT",
+      "name_ar": "لامع",
+      "colors": [
+        "#aaa482",
+        "#aba583",
+        "#aca684",
+        "#aea986",
+        "#a7a082",
+        "#a7a380"
+      ],
+      "ref": "wood_cache/cappuccino-lak-panel-superior-matt.jpg"
+    },
+    {
+      "id": "derin-beyaz-lak-panel-super-gloss",
+      "name_en": "Derin Beyaz LAK PANEL SUPER GLOSS",
+      "name_ar": "أبيض",
+      "colors": [
+        "#faf7f0",
+        "#faf7f0",
+        "#faf7f0",
+        "#faf7f0",
+        "#faf7f0",
+        "#faf7f0"
+      ],
+      "ref": "wood_cache/derin-beyaz-lak-panel-super-gloss.jpg"
+    },
+    {
+      "id": "cvt_010",
+      "name_en": "Bej",
+      "name_ar": "بيج",
+      "colors": [
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe",
+        "#eadbbe"
+      ],
+      "ref": "wood_cache/cvt_010.jpg"
+    },
+    {
+      "id": "cvt_237",
+      "name_en": "Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#9b9683",
+        "#9d9885",
+        "#a19c89",
+        "#9f9a87",
+        "#9a9682",
+        "#999482"
+      ],
+      "ref": "wood_cache/cvt_237.jpg"
+    },
+    {
+      "id": "portakal",
+      "name_en": "Portakal",
+      "name_ar": "لوح Portakal",
+      "colors": [
+        "#ff9037",
+        "#ff9037",
+        "#ff9037",
+        "#ff9037",
+        "#ff9037",
+        "#ff9037"
+      ],
+      "ref": "wood_cache/portakal.jpg"
+    },
+    {
+      "id": "teak",
+      "name_en": "Teak",
+      "name_ar": "لوح Teak",
+      "colors": [
+        "#ad7c51",
+        "#9d6d47",
+        "#a4734b",
+        "#a8764d",
+        "#b28155",
+        "#b8885a"
+      ],
+      "ref": "wood_cache/teak.jpg"
+    },
+    {
+      "id": "marmo",
+      "name_en": "Marmo",
+      "name_ar": "لوح Marmo",
+      "colors": [
+        "#e5e1dc",
+        "#eee8e4",
+        "#e8e4df",
+        "#d7d6d1",
+        "#ece5e0",
+        "#ede6e2"
+      ],
+      "ref": "wood_cache/marmo.jpg"
+    },
+    {
+      "id": "sonata",
+      "name_en": "Sonata",
+      "name_ar": "لوح Sonata",
+      "colors": [
+        "#1c1c1b",
+        "#1b1b1a",
+        "#20201e",
+        "#353432",
+        "#181818",
+        "#1b1c1a"
+      ],
+      "ref": "wood_cache/sonata.jpg"
+    },
+    {
+      "id": "010",
+      "name_en": "Bej",
+      "name_ar": "بيج",
+      "colors": [
+        "#eae7d6",
+        "#ebe8d7",
+        "#e9e6d5",
+        "#ece9d8",
+        "#ece9d8",
+        "#ece9d8"
+      ],
+      "ref": "wood_cache/010.jpg"
+    },
+    {
+      "id": "siyah",
+      "name_en": "Siyah",
+      "name_ar": "أنثراسيت",
+      "colors": [
+        "#090a0c",
+        "#07070a",
+        "#08080a",
+        "#060608",
+        "#07080a",
+        "#08090b"
+      ],
+      "ref": "wood_cache/siyah.jpg"
+    },
+    {
+      "id": "koton-gri",
+      "name_en": "Koton Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#ebe6ea",
+        "#f0ebef",
+        "#ede8ec",
+        "#e8e3e7",
+        "#ece7eb",
+        "#eee9ed"
+      ],
+      "ref": "wood_cache/koton-gri.jpg"
+    },
+    {
+      "id": "vizon-latte",
+      "name_en": "Vizon Latte",
+      "name_ar": "لوح Vizon Latte",
+      "colors": [
+        "#ccbeb5",
+        "#c9bbb2",
+        "#c8bab1",
+        "#cabcb3",
+        "#c5b7ae",
+        "#c7b9b0"
+      ],
+      "ref": "wood_cache/vizon-latte.jpg"
+    },
+    {
+      "id": "koton-bej",
+      "name_en": "Koton Bej",
+      "name_ar": "بيج",
+      "colors": [
+        "#d3c1b5",
+        "#cebcaf",
+        "#d1bfb2",
+        "#c8b6aa",
+        "#d6c5b8",
+        "#ccbaae"
+      ],
+      "ref": "wood_cache/koton-bej.jpg"
+    },
+    {
+      "id": "gri-chevron",
+      "name_en": "Gri Chevron",
+      "name_ar": "رمادي",
+      "colors": [
+        "#c9c2bd",
+        "#b0a9a3",
+        "#d2ccc6",
+        "#b9b3ad",
+        "#c0b9b3",
+        "#dad3cd"
+      ],
+      "ref": "wood_cache/gri-chevron.jpg"
+    },
+    {
+      "id": "chevron",
+      "name_en": "Chevron",
+      "name_ar": "لوح Chevron",
+      "colors": [
+        "#a78a72",
+        "#9d7d64",
+        "#ac907a",
+        "#b59b87",
+        "#b09680",
+        "#bca591"
+      ],
+      "ref": "wood_cache/chevron.jpg"
+    },
+    {
+      "id": "ak-xe7-aa-x11f-a-xe7",
+      "name_en": "Ak&#xE7;aa&#x11F;a&#xE7;",
+      "name_ar": "لوح Ak&#xE7;aa&#x11F;a&#xE7;",
+      "colors": [
+        "#f9d9ae",
+        "#fbe0b8",
+        "#f7d3a7",
+        "#fbddb3",
+        "#fce5bd",
+        "#f8dcb3"
+      ],
+      "ref": "wood_cache/ak-xe7-aa-x11f-a-xe7.jpg"
+    },
+    {
+      "id": "g-xfc-rgen",
+      "name_en": "G&#xFC;rgen",
+      "name_ar": "لوح G&#xFC;rgen",
+      "colors": [
+        "#c8af97",
+        "#c6ac91",
+        "#cab29a",
+        "#c2a78b",
+        "#ccb69f",
+        "#c3ab92"
+      ],
+      "ref": "wood_cache/g-xfc-rgen.jpg"
+    },
+    {
+      "id": "atlantis",
+      "name_en": "Atlantis",
+      "name_ar": "لوح Atlantis",
+      "colors": [
+        "#a79583",
+        "#907d6c",
+        "#9b8978",
+        "#af9c8b",
+        "#a18e7c",
+        "#b7a594"
+      ],
+      "ref": "wood_cache/atlantis.jpg"
+    },
+    {
+      "id": "safir-me-x15f-e",
+      "name_en": "Safir Me&#x15F;e",
+      "name_ar": "لوح Safir Me&#x15F;e",
+      "colors": [
+        "#cba579",
+        "#cda97d",
+        "#c0986c",
+        "#c6a174",
+        "#c9a274",
+        "#d1ae83"
+      ],
+      "ref": "wood_cache/safir-me-x15f-e.jpg"
+    },
+    {
+      "id": "atlantik-xc7-am",
+      "name_en": "Atlantik &#xC7;am",
+      "name_ar": "لوح Atlantik &#xC7;am",
+      "colors": [
+        "#ba906c",
+        "#c09671",
+        "#ae8665",
+        "#a27b5b",
+        "#b58a66",
+        "#c79d77"
+      ],
+      "ref": "wood_cache/atlantik-xc7-am.jpg"
+    },
+    {
+      "id": "avanos-ceviz",
+      "name_en": "Avanos Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#83603e",
+        "#96734c",
+        "#b08b62",
+        "#a37e55",
+        "#ab865d",
+        "#b9956a"
+      ],
+      "ref": "wood_cache/avanos-ceviz.jpg"
+    },
+    {
+      "id": "ceviz",
+      "name_en": "Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#895234",
+        "#814b30",
+        "#8c5436",
+        "#874f33",
+        "#844f32",
+        "#905838"
+      ],
+      "ref": "wood_cache/ceviz.jpg"
+    },
+    {
+      "id": "dakron-gri",
+      "name_en": "Dakron Gri",
+      "name_ar": "رمادي",
+      "colors": [
+        "#687377",
+        "#677276",
+        "#697478",
+        "#667175",
+        "#6a7579",
+        "#657074"
+      ],
+      "ref": "wood_cache/dakron-gri.jpg"
+    },
+    {
+      "id": "venge",
+      "name_en": "Venge",
+      "name_ar": "لوح Venge",
+      "colors": [
+        "#160703",
+        "#190803",
+        "#150603",
+        "#180703",
+        "#1a0904",
+        "#170803"
+      ],
+      "ref": "wood_cache/venge.jpg"
+    },
+    {
+      "id": "iyon-kapak-panel-mat",
+      "name_en": "iyon kapak panel mat",
+      "name_ar": "لوح iyon kapak panel mat",
+      "colors": [
+        "#878d87",
+        "#c4c1ba",
+        "#596057",
+        "#778179",
+        "#9ba19b",
+        "#dddcdd"
+      ],
+      "ref": "wood_cache/iyon-kapak-panel-mat.jpg"
+    },
+    {
+      "id": "silves",
+      "name_en": "silves",
+      "name_ar": "لوح silves",
+      "colors": [
+        "#8c8883",
+        "#9b9792",
+        "#48403a",
+        "#eae8e2",
+        "#cecbc6",
+        "#a7a4a1"
+      ],
+      "ref": "wood_cache/silves.jpg"
+    },
+    {
+      "id": "bellus",
+      "name_en": "bellus",
+      "name_ar": "لوح bellus",
+      "colors": [
+        "#4a483c",
+        "#b09d8c",
+        "#a78769",
+        "#cabcae",
+        "#897f76",
+        "#dacaba"
+      ],
+      "ref": "wood_cache/bellus.jpg"
+    },
+    {
+      "id": "do-x11f-al-ve-dingin-nat-xfc-ralizm",
+      "name_en": "Do&#x11F;al ve Dingin: Nat&#xFC;ralizm",
+      "name_ar": "لوح Do&#x11F;al ve Dingin: Nat&#xFC;ralizm",
+      "colors": [
+        "#473730",
+        "#372c26",
+        "#51423b",
+        "#c9c3ba",
+        "#a89e94",
+        "#70655b"
+      ],
+      "ref": "wood_cache/do-x11f-al-ve-dingin-nat-xfc-ralizm.jpg"
+    },
+    {
+      "id": "renzo-lam-x130-nat",
+      "name_en": "RENZO LAM&#x130;NAT",
+      "name_ar": "لوح RENZO LAM&#x130;NAT",
+      "colors": [
+        "#c2c3be",
+        "#c9cac5",
+        "#bcbdb9",
+        "#c5c5c1",
+        "#c7c7c3",
+        "#cdceca"
+      ],
+      "ref": "wood_cache/renzo-lam-x130-nat.jpg"
+    },
+    {
+      "id": "terrano-lam-x130-nat",
+      "name_en": "TERRANO LAM&#x130;NAT",
+      "name_ar": "لوح TERRANO LAM&#x130;NAT",
+      "colors": [
+        "#c8b9aa",
+        "#c7b7a8",
+        "#c2b3a4",
+        "#beae9f",
+        "#c5b4a5",
+        "#cbbdae"
+      ],
+      "ref": "wood_cache/terrano-lam-x130-nat.jpg"
+    },
+    {
+      "id": "saros-lam-x130-nat",
+      "name_en": "SAROS LAM&#x130;NAT",
+      "name_ar": "لوح SAROS LAM&#x130;NAT",
+      "colors": [
+        "#d5d6d1",
+        "#d3d5cf",
+        "#d7d9d4",
+        "#cdcec8",
+        "#d1d3cd",
+        "#d0d1cc"
+      ],
+      "ref": "wood_cache/saros-lam-x130-nat.jpg"
+    },
+    {
+      "id": "akyaka-lam-x130-nat",
+      "name_en": "AKYAKA LAM&#x130;NAT",
+      "name_ar": "لوح AKYAKA LAM&#x130;NAT",
+      "colors": [
+        "#cfb890",
+        "#c6ae87",
+        "#cbb48c",
+        "#ceb58d",
+        "#d1ba92",
+        "#d4be96"
+      ],
+      "ref": "wood_cache/akyaka-lam-x130-nat.jpg"
+    },
+    {
+      "id": "ayvalik-lam-x130-nat",
+      "name_en": "AYVALIK LAM&#x130;NAT",
+      "name_ar": "لوح AYVALIK LAM&#x130;NAT",
+      "colors": [
+        "#c4ae8f",
+        "#bda789",
+        "#c9b395",
+        "#cbb799",
+        "#c6b294",
+        "#d0bc9e"
+      ],
+      "ref": "wood_cache/ayvalik-lam-x130-nat.jpg"
+    },
+    {
+      "id": "sonora-lam-x130-nat",
+      "name_en": "SONORA LAM&#x130;NAT",
+      "name_ar": "لوح SONORA LAM&#x130;NAT",
+      "colors": [
+        "#e7e7e7",
+        "#e5e5e6",
+        "#e3e4e4",
+        "#ebebeb",
+        "#e0e1e2",
+        "#e9e9e9"
+      ],
+      "ref": "wood_cache/sonora-lam-x130-nat.jpg"
+    },
+    {
+      "id": "velena-lam-x130-nat",
+      "name_en": "VELENA LAM&#x130;NAT",
+      "name_ar": "لوح VELENA LAM&#x130;NAT",
+      "colors": [
+        "#d9d1bf",
+        "#dbd2c1",
+        "#ded6c5",
+        "#d7cfbd",
+        "#d4cbb9",
+        "#d8d0be"
+      ],
+      "ref": "wood_cache/velena-lam-x130-nat.jpg"
+    },
+    {
+      "id": "vento-lam-x130-nat",
+      "name_en": "VENTO LAM&#x130;NAT",
+      "name_ar": "لوح VENTO LAM&#x130;NAT",
+      "colors": [
+        "#9b938a",
+        "#9f978d",
+        "#938b83",
+        "#a29a91",
+        "#a79f95",
+        "#9c968d"
+      ],
+      "ref": "wood_cache/vento-lam-x130-nat.jpg"
+    },
+    {
+      "id": "larmo-lam-x130-nat",
+      "name_en": "LARMO LAM&#x130;NAT",
+      "name_ar": "لوح LARMO LAM&#x130;NAT",
+      "colors": [
+        "#635e61",
+        "#656164",
+        "#686468",
+        "#5e595c",
+        "#615c5f",
+        "#6f6b6f"
+      ],
+      "ref": "wood_cache/larmo-lam-x130-nat.jpg"
+    },
+    {
+      "id": "l-x130-ga-lam-x130-nat",
+      "name_en": "L&#x130;GA LAM&#x130;NAT",
+      "name_ar": "لوح L&#x130;GA LAM&#x130;NAT",
+      "colors": [
+        "#78787c",
+        "#7b7b7f",
+        "#737277",
+        "#7f7e82",
+        "#828285",
+        "#7d7c80"
+      ],
+      "ref": "wood_cache/l-x130-ga-lam-x130-nat.jpg"
+    },
+    {
+      "id": "fundo-lam-x130-nat",
+      "name_en": "FUNDO LAM&#x130;NAT",
+      "name_ar": "لوح FUNDO LAM&#x130;NAT",
+      "colors": [
+        "#cecece",
+        "#d1d1d1",
+        "#cccccc",
+        "#cacaca",
+        "#c6c6c7",
+        "#cfcfcf"
+      ],
+      "ref": "wood_cache/fundo-lam-x130-nat.jpg"
+    },
+    {
+      "id": "amora-lam-x130-nat",
+      "name_en": "AMORA LAM&#x130;NAT",
+      "name_ar": "لوح AMORA LAM&#x130;NAT",
+      "colors": [
+        "#efeae0",
+        "#f3eee4",
+        "#f1ede3",
+        "#f1ece2",
+        "#e9e1d7",
+        "#f3ede4"
+      ],
+      "ref": "wood_cache/amora-lam-x130-nat.jpg"
+    },
+    {
+      "id": "v-x130-vo-lam-x130-nat",
+      "name_en": "V&#x130;VO LAM&#x130;NAT",
+      "name_ar": "لوح V&#x130;VO LAM&#x130;NAT",
+      "colors": [
+        "#f5f4f1",
+        "#f2efec",
+        "#f0ece9",
+        "#f4f2f0",
+        "#f4f0ee",
+        "#f2f1ee"
+      ],
+      "ref": "wood_cache/v-x130-vo-lam-x130-nat.jpg"
+    },
+    {
+      "id": "lento-lam-x130-nat",
+      "name_en": "LENTO LAM&#x130;NAT",
+      "name_ar": "لوح LENTO LAM&#x130;NAT",
+      "colors": [
+        "#d0d0d1",
+        "#cdcece",
+        "#d4d4d4",
+        "#cbcbcb",
+        "#cfcfcf",
+        "#d2d2d2"
+      ],
+      "ref": "wood_cache/lento-lam-x130-nat.jpg"
+    },
+    {
+      "id": "rapsod-x130-lam-x130-nat",
+      "name_en": "RAPSOD&#x130; LAM&#x130;NAT",
+      "name_ar": "لوح RAPSOD&#x130; LAM&#x130;NAT",
+      "colors": [
+        "#d9bda4",
+        "#dcc1a8",
+        "#d3b89e",
+        "#d6baa0",
+        "#cfb398",
+        "#e0c6ae"
+      ],
+      "ref": "wood_cache/rapsod-x130-lam-x130-nat.jpg"
+    },
+    {
+      "id": "melod-x130-lam-x130-nat",
+      "name_en": "MELOD&#x130; LAM&#x130;NAT",
+      "name_ar": "لوح MELOD&#x130; LAM&#x130;NAT",
+      "colors": [
+        "#ccb7a4",
+        "#d4bfac",
+        "#d3bdab",
+        "#d7c2ae",
+        "#d0bba8",
+        "#d1bca9"
+      ],
+      "ref": "wood_cache/melod-x130-lam-x130-nat.jpg"
+    },
+    {
+      "id": "mov-x130-do-lam-x130-nat",
+      "name_en": "MOV&#x130;DO LAM&#x130;NAT",
+      "name_ar": "لوح MOV&#x130;DO LAM&#x130;NAT",
+      "colors": [
+        "#8c7259",
+        "#886c54",
+        "#937960",
+        "#8e755c",
+        "#91765d",
+        "#977e64"
+      ],
+      "ref": "wood_cache/mov-x130-do-lam-x130-nat.jpg"
+    },
+    {
+      "id": "alto-lam-x130-nat",
+      "name_en": "ALTO LAM&#x130;NAT",
+      "name_ar": "لوح ALTO LAM&#x130;NAT",
+      "colors": [
+        "#8b6542",
+        "#845d3b",
+        "#8f6947",
+        "#966f4b",
+        "#946c48",
+        "#9b7450"
+      ],
+      "ref": "wood_cache/alto-lam-x130-nat.jpg"
+    },
+    {
+      "id": "senfon-x130-lam-x130-nat",
+      "name_en": "SENFON&#x130; LAM&#x130;NAT",
+      "name_ar": "لوح SENFON&#x130; LAM&#x130;NAT",
+      "colors": [
+        "#888482",
+        "#8c8885",
+        "#807c79",
+        "#85817f",
+        "#918d8a",
+        "#84807d"
+      ],
+      "ref": "wood_cache/senfon-x130-lam-x130-nat.jpg"
+    },
+    {
+      "id": "antwerp-lam-x130-nat",
+      "name_en": "ANTWERP LAM&#x130;NAT",
+      "name_ar": "لوح ANTWERP LAM&#x130;NAT",
+      "colors": [
+        "#e6e5e1",
+        "#ecebe7",
+        "#e9e8e4",
+        "#eae9e5",
+        "#dfdeda",
+        "#e8e7e3"
+      ],
+      "ref": "wood_cache/antwerp-lam-x130-nat.jpg"
+    },
+    {
+      "id": "melbourne-lam-x130-nat",
+      "name_en": "MELBOURNE LAM&#x130;NAT",
+      "name_ar": "لوح MELBOURNE LAM&#x130;NAT",
+      "colors": [
+        "#d7d2cf",
+        "#cfcac8",
+        "#dcd7d4",
+        "#dfdad7",
+        "#dad5d2",
+        "#ddd8d5"
+      ],
+      "ref": "wood_cache/melbourne-lam-x130-nat.jpg"
+    },
+    {
+      "id": "seul-lam-x130-nat",
+      "name_en": "SEUL LAM&#x130;NAT",
+      "name_ar": "لوح SEUL LAM&#x130;NAT",
+      "colors": [
+        "#c8c0bd",
+        "#bab3b0",
+        "#d5cdca",
+        "#cfc7c4",
+        "#ccc5c2",
+        "#d1c9c6"
+      ],
+      "ref": "wood_cache/seul-lam-x130-nat.jpg"
+    },
+    {
+      "id": "newyork-lam-x130-nat",
+      "name_en": "NEWYORK LAM&#x130;NAT",
+      "name_ar": "لوح NEWYORK LAM&#x130;NAT",
+      "colors": [
+        "#c8b6a7",
+        "#bfac9f",
+        "#ccb9ab",
+        "#cebbad",
+        "#d0bdaf",
+        "#d3c1b3"
+      ],
+      "ref": "wood_cache/newyork-lam-x130-nat.jpg"
+    },
+    {
+      "id": "londra-lam-x130-nat",
+      "name_en": "LONDRA LAM&#x130;NAT",
+      "name_ar": "لوح LONDRA LAM&#x130;NAT",
+      "colors": [
+        "#d9b897",
+        "#d1af8d",
+        "#e0bfa1",
+        "#dcbc9c",
+        "#dfbd9e",
+        "#e2c3a5"
+      ],
+      "ref": "wood_cache/londra-lam-x130-nat.jpg"
+    },
+    {
+      "id": "parkeni-se-xe7",
+      "name_en": "parkeni se&#xE7;",
+      "name_ar": "لوح parkeni se&#xE7;",
+      "colors": [
+        "#fcfcfc",
+        "#bfb3a3",
+        "#716459",
+        "#a99c8f",
+        "#faf9f9",
+        "#e1ddd7"
+      ],
+      "ref": "wood_cache/parkeni-se-xe7.jpg"
+    },
+    {
+      "id": "l-x130-kya-lam-x130-nat",
+      "name_en": "L&#x130;KYA LAM&#x130;NAT",
+      "name_ar": "لوح L&#x130;KYA LAM&#x130;NAT",
+      "colors": [
+        "#d3c1a3",
+        "#d0bd9d",
+        "#d8c6a9",
+        "#d6c4a6",
+        "#dacaac",
+        "#d4c3a5"
+      ],
+      "ref": "wood_cache/l-x130-kya-lam-x130-nat.jpg"
+    },
+    {
+      "id": "sole-lam-x130-nat",
+      "name_en": "SOLE LAM&#x130;NAT",
+      "name_ar": "لوح SOLE LAM&#x130;NAT",
+      "colors": [
+        "#83644e",
+        "#73543e",
+        "#8d6f59",
+        "#a1856f",
+        "#977963",
+        "#ae947e"
+      ],
+      "ref": "wood_cache/sole-lam-x130-nat.jpg"
+    },
+    {
+      "id": "vanessa-lam-x130-nat",
+      "name_en": "VANESSA LAM&#x130;NAT",
+      "name_ar": "لوح VANESSA LAM&#x130;NAT",
+      "colors": [
+        "#dedddb",
+        "#d4d3d1",
+        "#e6e5e3",
+        "#dbdad8",
+        "#e2e1df",
+        "#d8d7d5"
+      ],
+      "ref": "wood_cache/vanessa-lam-x130-nat.jpg"
+    },
+    {
+      "id": "morr-x130-s-lam-x130-nat",
+      "name_en": "MORR&#x130;S LAM&#x130;NAT",
+      "name_ar": "لوح MORR&#x130;S LAM&#x130;NAT",
+      "colors": [
+        "#b39e8a",
+        "#aa9580",
+        "#b5a18d",
+        "#ae9a86",
+        "#b19b86",
+        "#b9a592"
+      ],
+      "ref": "wood_cache/morr-x130-s-lam-x130-nat.jpg"
+    },
+    {
+      "id": "ness-lam-x130-nat",
+      "name_en": "NESS LAM&#x130;NAT",
+      "name_ar": "لوح NESS LAM&#x130;NAT",
+      "colors": [
+        "#aaaba6",
+        "#9fa09b",
+        "#b4b5b0",
+        "#b1b2ad",
+        "#aeafaa",
+        "#b9bab5"
+      ],
+      "ref": "wood_cache/ness-lam-x130-nat.jpg"
+    },
+    {
+      "id": "mosso-lam-x130-nat",
+      "name_en": "MOSSO LAM&#x130;NAT",
+      "name_ar": "لوح MOSSO LAM&#x130;NAT",
+      "colors": [
+        "#ba9b80",
+        "#c1a287",
+        "#b29478",
+        "#bc9f83",
+        "#bfa084",
+        "#c4a68b"
+      ],
+      "ref": "wood_cache/mosso-lam-x130-nat.jpg"
+    },
+    {
+      "id": "bonny-lam-x130-nat",
+      "name_en": "BONNY LAM&#x130;NAT",
+      "name_ar": "لوح BONNY LAM&#x130;NAT",
+      "colors": [
+        "#bf9d7e",
+        "#c6a487",
+        "#c9a88b",
+        "#c4a183",
+        "#b89575",
+        "#c1a082"
+      ],
+      "ref": "wood_cache/bonny-lam-x130-nat.jpg"
+    },
+    {
+      "id": "mart-x130-na-lam-x130-nat",
+      "name_en": "MART&#x130;NA LAM&#x130;NAT",
+      "name_ar": "لوح MART&#x130;NA LAM&#x130;NAT",
+      "colors": [
+        "#e1e0d7",
+        "#e4e2d9",
+        "#e5e4db",
+        "#e7e7dd",
+        "#e4e1d8",
+        "#deddd4"
+      ],
+      "ref": "wood_cache/mart-x130-na-lam-x130-nat.jpg"
+    },
+    {
+      "id": "muna-lam-x130-nat",
+      "name_en": "MUNA LAM&#x130;NAT",
+      "name_ar": "لوح MUNA LAM&#x130;NAT",
+      "colors": [
+        "#bba38e",
+        "#c3aa95",
+        "#c7ae98",
+        "#c0a590",
+        "#b39a86",
+        "#cbb39e"
+      ],
+      "ref": "wood_cache/muna-lam-x130-nat.jpg"
+    },
+    {
+      "id": "lara-lam-x130-nat",
+      "name_en": "LARA LAM&#x130;NAT",
+      "name_ar": "لوح LARA LAM&#x130;NAT",
+      "colors": [
+        "#ecede7",
+        "#edeee9",
+        "#f1f2ec",
+        "#eff0ea",
+        "#e9eae4",
+        "#eceee8"
+      ],
+      "ref": "wood_cache/lara-lam-x130-nat.jpg"
+    },
+    {
+      "id": "truva-lam-x130-nat",
+      "name_en": "TRUVA LAM&#x130;NAT",
+      "name_ar": "لوح TRUVA LAM&#x130;NAT",
+      "colors": [
+        "#cccbc6",
+        "#d4d4ce",
+        "#c6c5c0",
+        "#cfcec9",
+        "#d1d0cb",
+        "#cecdc8"
+      ],
+      "ref": "wood_cache/truva-lam-x130-nat.jpg"
+    },
+    {
+      "id": "kartepe-lam-x130-nat",
+      "name_en": "KARTEPE LAM&#x130;NAT",
+      "name_ar": "لوح KARTEPE LAM&#x130;NAT",
+      "colors": [
+        "#dadbd5",
+        "#d6d7d1",
+        "#d3d4ce",
+        "#d0d1cb",
+        "#c8c8c2",
+        "#d8d9d3"
+      ],
+      "ref": "wood_cache/kartepe-lam-x130-nat.jpg"
+    },
+    {
+      "id": "santor-x130-n-x130-lam-x130-nat",
+      "name_en": "SANTOR&#x130;N&#x130; LAM&#x130;NAT",
+      "name_ar": "لوح SANTOR&#x130;N&#x130; LAM&#x130;NAT",
+      "colors": [
+        "#c4bbbc",
+        "#beb5b6",
+        "#c9c0c1",
+        "#c7bebf",
+        "#cec5c6",
+        "#c6bdbe"
+      ],
+      "ref": "wood_cache/santor-x130-n-x130-lam-x130-nat.jpg"
+    },
+    {
+      "id": "roma-lam-x130-nat",
+      "name_en": "ROMA LAM&#x130;NAT",
+      "name_ar": "لوح ROMA LAM&#x130;NAT",
+      "colors": [
+        "#c7beb5",
+        "#beb5ad",
+        "#c5bbb3",
+        "#c3bab1",
+        "#cac0b7",
+        "#ccc3ba"
+      ],
+      "ref": "wood_cache/roma-lam-x130-nat.jpg"
+    },
+    {
+      "id": "s-xdc-mela-lam-x130-nat",
+      "name_en": "S&#xDC;MELA LAM&#x130;NAT",
+      "name_ar": "لوح S&#xDC;MELA LAM&#x130;NAT",
+      "colors": [
+        "#d1c6bc",
+        "#c6b9af",
+        "#d5cac1",
+        "#cac0b6",
+        "#cec1b7",
+        "#d7cec5"
+      ],
+      "ref": "wood_cache/s-xdc-mela-lam-x130-nat.jpg"
+    },
+    {
+      "id": "beyda-x11e-lam-x130-nat",
+      "name_en": "BEYDA&#x11E; LAM&#x130;NAT",
+      "name_ar": "لوح BEYDA&#x11E; LAM&#x130;NAT",
+      "colors": [
+        "#c2b8a6",
+        "#b8ae9b",
+        "#cac2b0",
+        "#c5bdab",
+        "#c8bfad",
+        "#d0c7b6"
+      ],
+      "ref": "wood_cache/beyda-x11e-lam-x130-nat.jpg"
+    },
+    {
+      "id": "beyaz-me-x15e-e-lam-x130-nat",
+      "name_en": "BEYAZ ME&#x15E;E LAM&#x130;NAT",
+      "name_ar": "أبيض",
+      "colors": [
+        "#b9946e",
+        "#c8a985",
+        "#cbae8c",
+        "#bf9d78",
+        "#c3a27d",
+        "#cfb393"
+      ],
+      "ref": "wood_cache/beyaz-me-x15e-e-lam-x130-nat.jpg"
+    },
+    {
+      "id": "sev-x130-lla-lam-x130-nat",
+      "name_en": "SEV&#x130;LLA LAM&#x130;NAT",
+      "name_ar": "لوح SEV&#x130;LLA LAM&#x130;NAT",
+      "colors": [
+        "#ab8960",
+        "#b19068",
+        "#a27e53",
+        "#a68358",
+        "#9a7549",
+        "#b79871"
+      ],
+      "ref": "wood_cache/sev-x130-lla-lam-x130-nat.jpg"
+    },
+    {
+      "id": "lima-lam-x130-nat",
+      "name_en": "LIMA LAM&#x130;NAT",
+      "name_ar": "لوح LIMA LAM&#x130;NAT",
+      "colors": [
+        "#7c5e48",
+        "#775a45",
+        "#83634b",
+        "#81614a",
+        "#87674d",
+        "#7e6149"
+      ],
+      "ref": "wood_cache/lima-lam-x130-nat.jpg"
+    },
+    {
+      "id": "kuvars-lam-x130-nat",
+      "name_en": "KUVARS LAM&#x130;NAT",
+      "name_ar": "لوح KUVARS LAM&#x130;NAT",
+      "colors": [
+        "#cfd4ce",
+        "#d3dad2",
+        "#cdd1cb",
+        "#cbd0c9",
+        "#d1d6d0",
+        "#c7cbc5"
+      ],
+      "ref": "wood_cache/kuvars-lam-x130-nat.jpg"
+    },
+    {
+      "id": "kr-x130-stal-me-x15e-e-lam-x130-nat",
+      "name_en": "KR&#x130;STAL ME&#x15E;E LAM&#x130;NAT",
+      "name_ar": "لوح KR&#x130;STAL ME&#x15E;E LAM&#x130;NAT",
+      "colors": [
+        "#c6c7c3",
+        "#cbccc7",
+        "#c2c2c0",
+        "#c9cac5",
+        "#c5c5c1",
+        "#c8c9c4"
+      ],
+      "ref": "wood_cache/kr-x130-stal-me-x15e-e-lam-x130-nat.jpg"
+    },
+    {
+      "id": "jasper-me-x15e-e-lam-x130-nat",
+      "name_en": "JASPER ME&#x15E;E LAM&#x130;NAT",
+      "name_ar": "لوح JASPER ME&#x15E;E LAM&#x130;NAT",
+      "colors": [
+        "#a78560",
+        "#a4815c",
+        "#9d7955",
+        "#a17f5b",
+        "#ab8964",
+        "#b08e69"
+      ],
+      "ref": "wood_cache/jasper-me-x15e-e-lam-x130-nat.jpg"
+    },
+    {
+      "id": "beyaz-lumina",
+      "name_en": "BEYAZ (LUMINA)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#d5d5d5",
+        "#c6c6c6",
+        "#9e948a",
+        "#e7e5dc",
+        "#d5d4d4",
+        "#cacaca"
+      ],
+      "ref": "wood_cache/beyaz-lumina.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-lumina",
+      "name_en": "MODERN ANTRAS&#x130;T (LUMINA)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (LUMINA)",
+      "colors": [
+        "#ffffff",
+        "#3b3b3b",
+        "#aca7a2",
+        "#3d3d3d",
+        "#5e554c",
+        "#fefffe"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-lumina.jpg"
+    },
+    {
+      "id": "beyaz-novart",
+      "name_en": "BEYAZ (NOVART)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#d5d5d5",
+        "#c6c6c6",
+        "#a1978d",
+        "#e4e2db",
+        "#d1d1d1",
+        "#c5c7c6"
+      ],
+      "ref": "wood_cache/beyaz-novart.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-novart",
+      "name_en": "MODERN ANTRAS&#x130;T (NOVART)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (NOVART)",
+      "colors": [
+        "#3c3c3c",
+        "#ffffff",
+        "#a8a29b",
+        "#514d48",
+        "#373737",
+        "#fefffe"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-novart.jpg"
+    },
+    {
+      "id": "beyaz-ultra",
+      "name_en": "BEYAZ (ULTRA)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#d9d4d4",
+        "#fefdfe",
+        "#ebeaeb",
+        "#f7f7f9",
+        "#f4f4f5",
+        "#fafafa"
+      ],
+      "ref": "wood_cache/beyaz-ultra.jpg"
+    },
+    {
+      "id": "beyaz-vera",
+      "name_en": "BEYAZ (VERA)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#ffffff",
+        "#f7f7f9",
+        "#f2f2f3",
+        "#d8d4d3",
+        "#fbfbfb",
+        "#fffffe"
+      ],
+      "ref": "wood_cache/beyaz-vera.jpg"
+    },
+    {
+      "id": "soft-bej-vera",
+      "name_en": "SOFT BEJ (VERA)",
+      "name_ar": "بيج",
+      "colors": [
+        "#b2aea3",
+        "#ffffff",
+        "#b4b0a5",
+        "#c0beb7",
+        "#988b7c",
+        "#f1f0ef"
+      ],
+      "ref": "wood_cache/soft-bej-vera.jpg"
+    },
+    {
+      "id": "hak-x130-gr-x130-vera",
+      "name_en": "HAK&#x130; GR&#x130; (VERA)",
+      "name_ar": "لوح HAK&#x130; GR&#x130; (VERA)",
+      "colors": [
+        "#746d65",
+        "#ffffff",
+        "#7e7264",
+        "#a9a6a3",
+        "#fefefe",
+        "#7a6e62"
+      ],
+      "ref": "wood_cache/hak-x130-gr-x130-vera.jpg"
+    },
+    {
+      "id": "ak-xc7-a-me-x15e-e-vera",
+      "name_en": "AK&#xC7;A ME&#x15E;E (VERA)",
+      "name_ar": "لوح AK&#xC7;A ME&#x15E;E (VERA)",
+      "colors": [
+        "#dac0b5",
+        "#e2c7bc",
+        "#f7f7f9",
+        "#d2b8ad",
+        "#d8c5bd",
+        "#e6d6ce"
+      ],
+      "ref": "wood_cache/ak-xc7-a-me-x15e-e-vera.jpg"
+    },
+    {
+      "id": "oz-x130-go-vera",
+      "name_en": "OZ&#x130;GO (VERA)",
+      "name_ar": "لوح OZ&#x130;GO (VERA)",
+      "colors": [
+        "#c6a68f",
+        "#cfb29d",
+        "#b49580",
+        "#bfa18b",
+        "#f7f7f9",
+        "#dcd5d1"
+      ],
+      "ref": "wood_cache/oz-x130-go-vera.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-vera",
+      "name_en": "MODERN ANTRAS&#x130;T (VERA)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (VERA)",
+      "colors": [
+        "#575652",
+        "#e0dddd",
+        "#595653",
+        "#54524e",
+        "#575651",
+        "#565652"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-vera.jpg"
+    },
+    {
+      "id": "beyaz-king",
+      "name_en": "BEYAZ (KING)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#eeeef0",
+        "#f6f5f6",
+        "#d6ba9f",
+        "#f0eef0",
+        "#eeeeef",
+        "#eceef1"
+      ],
+      "ref": "wood_cache/beyaz-king.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-king",
+      "name_en": "MODERN ANTRAS&#x130;T (KING)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (KING)",
+      "colors": [
+        "#535353",
+        "#c3b7ab",
+        "#535352",
+        "#555352",
+        "#515353",
+        "#505152"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-king.jpg"
+    },
+    {
+      "id": "beyaz-gusto",
+      "name_en": "BEYAZ (GUSTO)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#f5f6f8",
+        "#f7f6f7",
+        "#e4d7cc",
+        "#fcfcfd",
+        "#f5f6f6",
+        "#f4f6f9"
+      ],
+      "ref": "wood_cache/beyaz-gusto.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-gusto",
+      "name_en": "MODERN ANTRAS&#x130;T (GUSTO)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (GUSTO)",
+      "colors": [
+        "#555555",
+        "#ebecee",
+        "#8d7b68",
+        "#545655",
+        "#515353",
+        "#555554"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-gusto.jpg"
+    },
+    {
+      "id": "beyaz-optima",
+      "name_en": "BEYAZ (OPTIMA)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#fefefe",
+        "#f7f5f6",
+        "#d5c2b1",
+        "#fdfcfd",
+        "#ffffff",
+        "#fcfefe"
+      ],
+      "ref": "wood_cache/beyaz-optima.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-optima",
+      "name_en": "MODERN ANTRAS&#x130;T (OPTIMA)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (OPTIMA)",
+      "colors": [
+        "#555555",
+        "#f5f9fc",
+        "#4e504f",
+        "#50514f",
+        "#cebdb1",
+        "#9d8469"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-optima.jpg"
+    },
+    {
+      "id": "beyaz-royal",
+      "name_en": "BEYAZ (ROYAL)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#f6f5f7",
+        "#fdfdff",
+        "#d8c6b6",
+        "#ffffff",
+        "#f9f9fa",
+        "#fbfefe"
+      ],
+      "ref": "wood_cache/beyaz-royal.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-royal",
+      "name_en": "MODERN ANTRAS&#x130;T (ROYAL)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (ROYAL)",
+      "colors": [
+        "#555555",
+        "#f5f9fc",
+        "#b19f8e",
+        "#4f5150",
+        "#535554",
+        "#555552"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-royal.jpg"
+    },
+    {
+      "id": "beyaz-gala",
+      "name_en": "BEYAZ (GALA)",
+      "name_ar": "أبيض",
+      "colors": [
+        "#fdfdff",
+        "#f8f6f7",
+        "#e6e5e7",
+        "#ccb49d",
+        "#ffffff",
+        "#fcfefe"
+      ],
+      "ref": "wood_cache/beyaz-gala.jpg"
+    },
+    {
+      "id": "modern-antras-x130-t-gala",
+      "name_en": "MODERN ANTRAS&#x130;T (GALA)",
+      "name_ar": "لوح MODERN ANTRAS&#x130;T (GALA)",
+      "colors": [
+        "#555555",
+        "#f6f9fc",
+        "#4a4b4b",
+        "#cdb5a0",
+        "#535554",
+        "#5b5a57"
+      ],
+      "ref": "wood_cache/modern-antras-x130-t-gala.jpg"
+    },
+    {
+      "id": "retro-ta-x15e",
+      "name_en": "RETRO TA&#x15E;",
+      "name_ar": "لوح RETRO TA&#x15E;",
+      "colors": [
+        "#cec7bf",
+        "#c9c3b9",
+        "#f8f8fa",
+        "#ccc4bb",
+        "#bfb7af",
+        "#dfdad7"
+      ],
+      "ref": "wood_cache/retro-ta-x15e.jpg"
+    },
+    {
+      "id": "retro-g-xdc-m-xdc-x15e",
+      "name_en": "RETRO G&#xDC;M&#xDC;&#x15E;",
+      "name_ar": "لوح RETRO G&#xDC;M&#xDC;&#x15E;",
+      "colors": [
+        "#918886",
+        "#8c8380",
+        "#958c89",
+        "#f8f8fa",
+        "#9d9490",
+        "#d4d1d0"
+      ],
+      "ref": "wood_cache/retro-g-xdc-m-xdc-x15e.jpg"
+    },
+    {
+      "id": "vol-x130",
+      "name_en": "VOL&#x130;",
+      "name_ar": "لوح VOL&#x130;",
+      "colors": [
+        "#c8af84",
+        "#bda57f",
+        "#f8f8fa",
+        "#d1b88a",
+        "#ccb589",
+        "#e0d9ce"
+      ],
+      "ref": "wood_cache/vol-x130.jpg"
+    },
+    {
+      "id": "amora-laminat",
+      "name_en": "amora laminat",
+      "name_ar": "لوح amora laminat",
+      "colors": [
+        "#bbb7b2",
+        "#5c4c46",
+        "#a8a19c",
+        "#968983",
+        "#7c6c65",
+        "#d3d2d1"
+      ],
+      "ref": "wood_cache/amora-laminat.jpg"
+    },
+    {
+      "id": "hal-x131-ve-parke-uyumu",
+      "name_en": "Hal&#x131; ve Parke Uyumu",
+      "name_ar": "لوح Hal&#x131; ve Parke Uyumu",
+      "colors": [
+        "#7a6451",
+        "#8f7966",
+        "#51402f",
+        "#836e5c",
+        "#8b725c",
+        "#a8998b"
+      ],
+      "ref": "wood_cache/hal-x131-ve-parke-uyumu.jpg"
+    },
+    {
+      "id": "soho-x130-nc-x130-beyaz-lake-kapi",
+      "name_en": "SOHO &#x130;NC&#x130; BEYAZ LAKE KAPI",
+      "name_ar": "أبيض",
+      "colors": [
+        "#dcdcdb",
+        "#cececc",
+        "#d8d8d6",
+        "#ffffff",
+        "#d4d4d2",
+        "#e7e7e5"
+      ],
+      "ref": "wood_cache/soho-x130-nc-x130-beyaz-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-x130-nc-x130-beyaz-camli-lake-kapi",
+      "name_en": "SOHO &#x130;NC&#x130; BEYAZ CAMLI LAKE KAPI",
+      "name_ar": "أبيض",
+      "colors": [
+        "#ffffff",
+        "#cfcfcd",
+        "#dbdbda",
+        "#d8d8d6",
+        "#e3e3e2",
+        "#fffffe"
+      ],
+      "ref": "wood_cache/soho-x130-nc-x130-beyaz-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-do-x11e-al-bej-lake-kapi",
+      "name_en": "SOHO DO&#x11E;AL BEJ LAKE KAPI",
+      "name_ar": "بيج",
+      "colors": [
+        "#d1cec4",
+        "#c0bcb0",
+        "#ffffff",
+        "#c7c4b8",
+        "#cbc8bd",
+        "#dcdad3"
+      ],
+      "ref": "wood_cache/soho-do-x11e-al-bej-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-do-x11e-al-bej-camli-lake-kapi",
+      "name_en": "SOHO DO&#x11E;AL BEJ CAMLI LAKE KAPI",
+      "name_ar": "بيج",
+      "colors": [
+        "#ffffff",
+        "#cecbc1",
+        "#c2beb2",
+        "#dcd9d2",
+        "#fefffe",
+        "#fffffe"
+      ],
+      "ref": "wood_cache/soho-do-x11e-al-bej-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-x130-pek-gr-x130-lake-kapi",
+      "name_en": "SOHO &#x130;PEK GR&#x130; LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#b9b6b0",
+        "#a3a099",
+        "#ffffff",
+        "#b2afa9",
+        "#adaaa3",
+        "#cfcdc9"
+      ],
+      "ref": "wood_cache/soho-x130-pek-gr-x130-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-x130-pek-gr-x130-camli-lake-kapi",
+      "name_en": "SOHO &#x130;PEK GR&#x130; CAMLI LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#ffffff",
+        "#b5b2ab",
+        "#a6a39c",
+        "#aeaba4",
+        "#9c9992",
+        "#c9c6c2"
+      ],
+      "ref": "wood_cache/soho-x130-pek-gr-x130-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-naturel-gr-x130-lake-kapi",
+      "name_en": "SOHO NATUREL GR&#x130; LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#908d88",
+        "#77746e",
+        "#ffffff",
+        "#88857e",
+        "#817e79",
+        "#b2b0ac"
+      ],
+      "ref": "wood_cache/soho-naturel-gr-x130-lake-kapi.jpg"
+    },
+    {
+      "id": "soho-naturel-gr-x130-camli-lake-kapi",
+      "name_en": "SOHO NATUREL GR&#x130; CAMLI LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#ffffff",
+        "#8e8b85",
+        "#86837d",
+        "#7d7b75",
+        "#73706a",
+        "#acaaa6"
+      ],
+      "ref": "wood_cache/soho-naturel-gr-x130-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-x130-nc-x130-beyaz-lake-kapi",
+      "name_en": "AURA &#x130;NC&#x130; BEYAZ LAKE KAPI",
+      "name_ar": "أبيض",
+      "colors": [
+        "#e0e0df",
+        "#dcdcda",
+        "#d2d2d0",
+        "#ffffff",
+        "#d8d8d6",
+        "#e7e7e6"
+      ],
+      "ref": "wood_cache/aura-x130-nc-x130-beyaz-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-x130-nc-x130-beyaz-camli-lake-kapi",
+      "name_en": "AURA &#x130;NC&#x130; BEYAZ CAMLI LAKE KAPI",
+      "name_ar": "أبيض",
+      "colors": [
+        "#ffffff",
+        "#e1e1df",
+        "#d7d7d5",
+        "#dcdcda",
+        "#d0d0ce",
+        "#ebebea"
+      ],
+      "ref": "wood_cache/aura-x130-nc-x130-beyaz-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-do-x11e-al-bej-lake-kapi",
+      "name_en": "AURA DO&#x11E;AL BEJ LAKE KAPI",
+      "name_ar": "بيج",
+      "colors": [
+        "#c7c5c0",
+        "#b3b1ab",
+        "#ffffff",
+        "#bbb9b4",
+        "#c0bfba",
+        "#d8d7d4"
+      ],
+      "ref": "wood_cache/aura-do-x11e-al-bej-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-do-x11e-al-bej-camli-lake-kapi",
+      "name_en": "AURA DO&#x11E;AL BEJ CAMLI LAKE KAPI",
+      "name_ar": "بيج",
+      "colors": [
+        "#ffffff",
+        "#c6c4bf",
+        "#b6b4ae",
+        "#bebcb6",
+        "#adaba5",
+        "#d9d8d4"
+      ],
+      "ref": "wood_cache/aura-do-x11e-al-bej-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-x130-pek-gr-x130-lake-kapi",
+      "name_en": "AURA &#x130;PEK GR&#x130; LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#b2afa9",
+        "#9b9891",
+        "#ffffff",
+        "#aba8a1",
+        "#a5a29b",
+        "#cac8c4"
+      ],
+      "ref": "wood_cache/aura-x130-pek-gr-x130-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-x130-pek-gr-x130-camli-lake-kapi",
+      "name_en": "AURA &#x130;PEK GR&#x130; CAMLI LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#ffffff",
+        "#c6c4bf",
+        "#b6b4ae",
+        "#bebcb6",
+        "#adaba5",
+        "#d9d8d4"
+      ],
+      "ref": "wood_cache/aura-x130-pek-gr-x130-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-naturel-gr-x130-lake-kapi",
+      "name_en": "AURA NATUREL GR&#x130; LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#77756f",
+        "#93908a",
+        "#84817b",
+        "#ffffff",
+        "#8d8a83",
+        "#b1afaa"
+      ],
+      "ref": "wood_cache/aura-naturel-gr-x130-lake-kapi.jpg"
+    },
+    {
+      "id": "aura-naturel-gr-x130-camli-lake-kapi",
+      "name_en": "AURA NATUREL GR&#x130; CAMLI LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#ffffff",
+        "#898680",
+        "#77746e",
+        "#fefffe",
+        "#b5b3ae",
+        "#fffffe"
+      ],
+      "ref": "wood_cache/aura-naturel-gr-x130-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-x130-nc-x130-beyaz-lake-kapi",
+      "name_en": "SUPRA &#x130;NC&#x130; BEYAZ LAKE KAPI",
+      "name_ar": "أبيض",
+      "colors": [
+        "#dcdcda",
+        "#c9cac7",
+        "#ffffff",
+        "#d6d6d4",
+        "#d2d3cf",
+        "#e7e7e5"
+      ],
+      "ref": "wood_cache/supra-x130-nc-x130-beyaz-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-x130-nc-x130-beyaz-camli-lake-kapi",
+      "name_en": "SUPRA &#x130;NC&#x130; BEYAZ CAMLI LAKE KAPI",
+      "name_ar": "أبيض",
+      "colors": [
+        "#dadbd6",
+        "#cbccc7",
+        "#ffffff",
+        "#d5d6d2",
+        "#fdfefe",
+        "#e4e5e1"
+      ],
+      "ref": "wood_cache/supra-x130-nc-x130-beyaz-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-do-x11e-al-bej-lake-kapi",
+      "name_en": "SUPRA DO&#x11E;AL BEJ LAKE KAPI",
+      "name_ar": "بيج",
+      "colors": [
+        "#d1cfc9",
+        "#c7c5bd",
+        "#ffffff",
+        "#ccc9c2",
+        "#bfbcb3",
+        "#deddd9"
+      ],
+      "ref": "wood_cache/supra-do-x11e-al-bej-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-do-x11e-al-bej-camli-lake-kapi",
+      "name_en": "SUPRA DO&#x11E;AL BEJ CAMLI LAKE KAPI",
+      "name_ar": "بيج",
+      "colors": [
+        "#cfccc5",
+        "#cac7bf",
+        "#ffffff",
+        "#c0bdb6",
+        "#fdfefe",
+        "#dad8d3"
+      ],
+      "ref": "wood_cache/supra-do-x11e-al-bej-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-x130-pek-gr-x130-lake-kapi",
+      "name_en": "SUPRA &#x130;PEK GR&#x130; LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#b6b3ad",
+        "#a09d96",
+        "#ffffff",
+        "#afaca5",
+        "#a9a69f",
+        "#ccc9c5"
+      ],
+      "ref": "wood_cache/supra-x130-pek-gr-x130-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-x130-pek-gr-x130-camli-lake-kapi",
+      "name_en": "SUPRA &#x130;PEK GR&#x130; CAMLI LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#b2afa8",
+        "#a09d96",
+        "#ffffff",
+        "#aba8a1",
+        "#fdfefe",
+        "#c5c2be"
+      ],
+      "ref": "wood_cache/supra-x130-pek-gr-x130-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-naturel-gr-x130-lake-kapi",
+      "name_en": "SUPRA NATUREL GR&#x130; LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#898680",
+        "#97948e",
+        "#7c7973",
+        "#ffffff",
+        "#918e87",
+        "#b2b0ac"
+      ],
+      "ref": "wood_cache/supra-naturel-gr-x130-lake-kapi.jpg"
+    },
+    {
+      "id": "supra-naturel-gr-x130-camli-lake-kapi",
+      "name_en": "SUPRA NATUREL GR&#x130; CAMLI LAKE KAPI",
+      "name_ar": "لامع",
+      "colors": [
+        "#918e87",
+        "#7e7b75",
+        "#ffffff",
+        "#8a8781",
+        "#fdfefe",
+        "#aaa7a2"
+      ],
+      "ref": "wood_cache/supra-naturel-gr-x130-camli-lake-kapi.jpg"
+    },
+    {
+      "id": "ozigo-melamin-kap-x131",
+      "name_en": "ozigo melamin kap&#x131;",
+      "name_ar": "لوح ozigo melamin kap&#x131;",
+      "colors": [
+        "#c6b697",
+        "#2b2b29",
+        "#e3e2e0",
+        "#a5987f",
+        "#55514b",
+        "#d1cbc0"
+      ],
+      "ref": "wood_cache/ozigo-melamin-kap-x131.jpg"
+    },
+    {
+      "id": "kap-x131-parke-ve-s-xfc-p-xfc-rgelik-uyumu",
+      "name_en": "Kap&#x131;, Parke ve S&#xFC;p&#xFC;rgelik Uyumu",
+      "name_ar": "لوح Kap&#x131;, Parke ve S&#xFC;p&#xFC;rgelik Uyumu",
+      "colors": [
+        "#9d9c94",
+        "#cfceca",
+        "#bebeb5",
+        "#acaca3",
+        "#6b6965",
+        "#d7d6d2"
+      ],
+      "ref": "wood_cache/kap-x131-parke-ve-s-xfc-p-xfc-rgelik-uyumu.jpg"
+    },
+    {
+      "id": "aura-mermer-render",
+      "name_en": "Aura Mermer Render",
+      "name_ar": "لوح Aura Mermer Render",
+      "colors": [
+        "#4e3924",
+        "#b09e87",
+        "#a8967d",
+        "#918063",
+        "#6c6143",
+        "#bdad95"
+      ],
+      "ref": "wood_cache/aura-mermer-render.jpg"
+    },
+    {
+      "id": "aura-mermer-inspiring",
+      "name_en": "Aura Mermer Inspiring",
+      "name_ar": "لوح Aura Mermer Inspiring",
+      "colors": [
+        "#9f8d7a",
+        "#bdab9a",
+        "#d0c0af",
+        "#f0e4d9",
+        "#dccbbb",
+        "#e8dacc"
+      ],
+      "ref": "wood_cache/aura-mermer-inspiring.jpg"
+    },
+    {
+      "id": "woods",
+      "name_en": "Woods",
+      "name_ar": "لوح Woods",
+      "colors": [
+        "#644429",
+        "#cca57c",
+        "#f2f0f0",
+        "#a97e54",
+        "#8c6744",
+        "#e3d8ca"
+      ],
+      "ref": "wood_cache/woods.jpg"
+    },
+    {
+      "id": "woods-2",
+      "name_en": "Woods 2",
+      "name_ar": "لوح Woods 2",
+      "colors": [
+        "#9f6842",
+        "#835c40",
+        "#5a3825",
+        "#b1c4bf",
+        "#bddbdd",
+        "#a7947a"
+      ],
+      "ref": "wood_cache/woods-2.jpg"
+    },
+    {
+      "id": "x15e-imdi-ne-yapmak-istersiniz",
+      "name_en": "&#x15E;imdi ne yapmak istersiniz?",
+      "name_ar": "لوح &#x15E;imdi ne yapmak istersiniz?",
+      "colors": [
+        "#5a5549",
+        "#2b2624",
+        "#493f36",
+        "#393a32",
+        "#d6d3c6",
+        "#939084"
+      ],
+      "ref": "wood_cache/x15e-imdi-ne-yapmak-istersiniz.jpg"
+    },
+    {
+      "id": "beyaz-hu-x15f",
+      "name_en": "Beyaz Hu&#x15F;",
+      "name_ar": "أبيض",
+      "colors": [
+        "#e7d7c9",
+        "#e6d6c7",
+        "#e7d8ca",
+        "#e5d5c6",
+        "#e5d3c5",
+        "#e8d9cc"
+      ],
+      "ref": "wood_cache/beyaz-hu-x15f.jpg"
+    },
+    {
+      "id": "doruk-mermer-render",
+      "name_en": "Doruk Mermer Render",
+      "name_ar": "لوح Doruk Mermer Render",
+      "colors": [
+        "#301c17",
+        "#4c3933",
+        "#715e54",
+        "#cdc2b7",
+        "#ddd4cb",
+        "#a2968c"
+      ],
+      "ref": "wood_cache/doruk-mermer-render.jpg"
+    },
+    {
+      "id": "doruk-mermer-inspiring",
+      "name_en": "Doruk Mermer Inspiring",
+      "name_ar": "لوح Doruk Mermer Inspiring",
+      "colors": [
+        "#dad3ca",
+        "#cec0af",
+        "#e5e2dc",
+        "#dcdad4",
+        "#e0dcd5",
+        "#eeece7"
+      ],
+      "ref": "wood_cache/doruk-mermer-inspiring.jpg"
+    },
+    {
+      "id": "morgana-kiraz",
+      "name_en": "Morgana Kiraz",
+      "name_ar": "كرز",
+      "colors": [
+        "#b6906c",
+        "#b18a66",
+        "#be9973",
+        "#b8946f",
+        "#bb9571",
+        "#c19d77"
+      ],
+      "ref": "wood_cache/morgana-kiraz.jpg"
+    },
+    {
+      "id": "keten-chevron-render",
+      "name_en": "Keten Chevron Render",
+      "name_ar": "لوح Keten Chevron Render",
+      "colors": [
+        "#817866",
+        "#c3b8a9",
+        "#b2a596",
+        "#51493b",
+        "#978b7b",
+        "#d0c6bb"
+      ],
+      "ref": "wood_cache/keten-chevron-render.jpg"
+    },
+    {
+      "id": "keten-chevron-inspiring",
+      "name_en": "Keten Chevron Inspiring",
+      "name_ar": "لوح Keten Chevron Inspiring",
+      "colors": [
+        "#8f7863",
+        "#e5d3be",
+        "#e6d5c3",
+        "#e3d0bb",
+        "#e8d9ca",
+        "#d0beac"
+      ],
+      "ref": "wood_cache/keten-chevron-inspiring.jpg"
+    },
+    {
+      "id": "kristal-oniks-render",
+      "name_en": "Kristal Oniks Render",
+      "name_ar": "لوح Kristal Oniks Render",
+      "colors": [
+        "#c4beb8",
+        "#3a3f42",
+        "#aba49d",
+        "#716d69",
+        "#857f7b",
+        "#dcd6d2"
+      ],
+      "ref": "wood_cache/kristal-oniks-render.jpg"
+    },
+    {
+      "id": "kristal-oniks-inspiring",
+      "name_en": "Kristal Oniks Inspiring",
+      "name_ar": "لوح Kristal Oniks Inspiring",
+      "colors": [
+        "#b4a69a",
+        "#d1c6bd",
+        "#c3b5ab",
+        "#ded4cc",
+        "#bdb0a5",
+        "#ebe2db"
+      ],
+      "ref": "wood_cache/kristal-oniks-inspiring.jpg"
+    },
+    {
+      "id": "rosette",
+      "name_en": "Rosette",
+      "name_ar": "لوح Rosette",
+      "colors": [
+        "#b29287",
+        "#b29287",
+        "#b29287",
+        "#b29287",
+        "#b29287",
+        "#b29287"
+      ],
+      "ref": "wood_cache/rosette.jpg"
+    },
+    {
+      "id": "belly",
+      "name_en": "Belly",
+      "name_ar": "لوح Belly",
+      "colors": [
+        "#ae875f",
+        "#a07a55",
+        "#bc956a",
+        "#b38d64",
+        "#b89066",
+        "#c49c70"
+      ],
+      "ref": "wood_cache/belly.jpg"
+    },
+    {
+      "id": "lindos",
+      "name_en": "Lindos",
+      "name_ar": "لوح Lindos",
+      "colors": [
+        "#4b443e",
+        "#4c4540",
+        "#514a44",
+        "#48413b",
+        "#4e4741",
+        "#4f4842"
+      ],
+      "ref": "wood_cache/lindos.jpg"
+    },
+    {
+      "id": "lapad",
+      "name_en": "Lapad",
+      "name_ar": "لوح Lapad",
+      "colors": [
+        "#785f46",
+        "#6a533b",
+        "#7e664c",
+        "#876e54",
+        "#83694f",
+        "#8e7559"
+      ],
+      "ref": "wood_cache/lapad.jpg"
+    },
+    {
+      "id": "vero-ceviz-render",
+      "name_en": "Vero Ceviz Render",
+      "name_ar": "جوز",
+      "colors": [
+        "#a78d68",
+        "#9a7a4e",
+        "#675541",
+        "#b0a292",
+        "#86735d",
+        "#dbd1c8"
+      ],
+      "ref": "wood_cache/vero-ceviz-render.jpg"
+    },
+    {
+      "id": "vero-ceviz-inspiring",
+      "name_en": "Vero Ceviz Inspiring",
+      "name_ar": "جوز",
+      "colors": [
+        "#859696",
+        "#996f3f",
+        "#a18c6b",
+        "#b29671",
+        "#8aa0a2",
+        "#bba179"
+      ],
+      "ref": "wood_cache/vero-ceviz-inspiring.jpg"
+    },
+    {
+      "id": "mensa",
+      "name_en": "Mensa",
+      "name_ar": "لوح Mensa",
+      "colors": [
+        "#997c60",
+        "#93765a",
+        "#9d8063",
+        "#96795d",
+        "#8c6d53",
+        "#a08468"
+      ],
+      "ref": "wood_cache/mensa.jpg"
+    },
+    {
+      "id": "s-xf6-ke-ceviz",
+      "name_en": "S&#xF6;ke Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#7d4d2d",
+        "#754629",
+        "#825130",
+        "#79492a",
+        "#6e4125",
+        "#885633"
+      ],
+      "ref": "wood_cache/s-xf6-ke-ceviz.jpg"
+    },
+    {
+      "id": "salda-bej-render",
+      "name_en": "Salda Bej Render",
+      "name_ar": "بيج",
+      "colors": [
+        "#aba59c",
+        "#908b83",
+        "#6a6056",
+        "#9c968e",
+        "#b9b5ae",
+        "#c8c6c1"
+      ],
+      "ref": "wood_cache/salda-bej-render.jpg"
+    },
+    {
+      "id": "salda-bej-inspiring",
+      "name_en": "Salda Bej Inspiring",
+      "name_ar": "بيج",
+      "colors": [
+        "#cbd7dd",
+        "#c8cecf",
+        "#868e88",
+        "#d1d8d8",
+        "#d4dcdd",
+        "#d9e0df"
+      ],
+      "ref": "wood_cache/salda-bej-inspiring.jpg"
+    },
+    {
+      "id": "piran",
+      "name_en": "Piran",
+      "name_ar": "لوح Piran",
+      "colors": [
+        "#c6b9b1",
+        "#bfb2aa",
+        "#c3b6ae",
+        "#c2b5ad",
+        "#c4b7af",
+        "#c1b4ac"
+      ],
+      "ref": "wood_cache/piran.jpg"
+    },
+    {
+      "id": "kay-x131-n",
+      "name_en": "Kay&#x131;n",
+      "name_ar": "لوح Kay&#x131;n",
+      "colors": [
+        "#eab27b",
+        "#e5a871",
+        "#e8af77",
+        "#e7ab74",
+        "#e9b079",
+        "#e8ac75"
+      ],
+      "ref": "wood_cache/kay-x131-n.jpg"
+    },
+    {
+      "id": "verga",
+      "name_en": "Verga",
+      "name_ar": "لوح Verga",
+      "colors": [
+        "#c9b6a7",
+        "#c6b3a3",
+        "#c4b1a1",
+        "#c7b4a5",
+        "#c2afa0",
+        "#c0ad9d"
+      ],
+      "ref": "wood_cache/verga.jpg"
+    },
+    {
+      "id": "sat-xfc-rn-bej-render",
+      "name_en": "Sat&#xFC;rn Bej Render",
+      "name_ar": "بيج",
+      "colors": [
+        "#76644b",
+        "#816e51",
+        "#92836d",
+        "#a69d91",
+        "#564737",
+        "#beb2a2"
+      ],
+      "ref": "wood_cache/sat-xfc-rn-bej-render.jpg"
+    },
+    {
+      "id": "sat-xfc-rn-bej-inspiring",
+      "name_en": "Sat&#xFC;rn Bej Inspiring",
+      "name_ar": "بيج",
+      "colors": [
+        "#e1d4c2",
+        "#fdf8f0",
+        "#f8f0e5",
+        "#9c8d7f",
+        "#eee3d4",
+        "#fdfaf4"
+      ],
+      "ref": "wood_cache/sat-xfc-rn-bej-inspiring.jpg"
+    },
+    {
+      "id": "hazar",
+      "name_en": "Hazar",
+      "name_ar": "لوح Hazar",
+      "colors": [
+        "#896951",
+        "#7e5e4a",
+        "#906f56",
+        "#9a7a5e",
+        "#a28165",
+        "#957359"
+      ],
+      "ref": "wood_cache/hazar.jpg"
+    },
+    {
+      "id": "kafkas-me-x15f-e",
+      "name_en": "Kafkas Me&#x15F;e",
+      "name_ar": "لوح Kafkas Me&#x15F;e",
+      "colors": [
+        "#916f4f",
+        "#896849",
+        "#9a7856",
+        "#a17f5b",
+        "#947352",
+        "#977553"
+      ],
+      "ref": "wood_cache/kafkas-me-x15f-e.jpg"
+    },
+    {
+      "id": "moka-kahve-render",
+      "name_en": "Moka Kahve  Render",
+      "name_ar": "بني",
+      "colors": [
+        "#71554a",
+        "#998683",
+        "#7f5a4e",
+        "#5a4236",
+        "#8b746c",
+        "#b0998e"
+      ],
+      "ref": "wood_cache/moka-kahve-render.jpg"
+    },
+    {
+      "id": "moka-kahve-inspiring",
+      "name_en": "Moka Kahve  Inspiring",
+      "name_ar": "بني",
+      "colors": [
+        "#5e5253",
+        "#9d8a86",
+        "#bba098",
+        "#676971",
+        "#7f706f",
+        "#d1b3a7"
+      ],
+      "ref": "wood_cache/moka-kahve-inspiring.jpg"
+    },
+    {
+      "id": "senza",
+      "name_en": "Senza",
+      "name_ar": "لوح Senza",
+      "colors": [
+        "#bda78a",
+        "#b6a082",
+        "#c1ac90",
+        "#ad9579",
+        "#baa284",
+        "#c6b297"
+      ],
+      "ref": "wood_cache/senza.jpg"
+    },
+    {
+      "id": "palisander",
+      "name_en": "Palisander",
+      "name_ar": "لوح Palisander",
+      "colors": [
+        "#723c23",
+        "#5c301e",
+        "#673520",
+        "#7b4225",
+        "#6b3821",
+        "#844928"
+      ],
+      "ref": "wood_cache/palisander.jpg"
+    },
+    {
+      "id": "ihlamur-ye-x15f-ili-render",
+      "name_en": "Ihlamur Ye&#x15F;ili Render",
+      "name_ar": "لوح Ihlamur Ye&#x15F;ili Render",
+      "colors": [
+        "#2f241e",
+        "#8b826f",
+        "#63594c",
+        "#b5b0a2",
+        "#4f453a",
+        "#c5c1b3"
+      ],
+      "ref": "wood_cache/ihlamur-ye-x15f-ili-render.jpg"
+    },
+    {
+      "id": "ihlamur-ye-x15f-ili-inspiring",
+      "name_en": "Ihlamur Ye&#x15F;ili Inspiring",
+      "name_ar": "لوح Ihlamur Ye&#x15F;ili Inspiring",
+      "colors": [
+        "#bec5b9",
+        "#848681",
+        "#cdd6c7",
+        "#d9ded7",
+        "#e4e9e2",
+        "#f3f4f2"
+      ],
+      "ref": "wood_cache/ihlamur-ye-x15f-ili-inspiring.jpg"
+    },
+    {
+      "id": "frezya",
+      "name_en": "Frezya",
+      "name_ar": "لوح Frezya",
+      "colors": [
+        "#adaca5",
+        "#878686",
+        "#bab9b0",
+        "#cdcdc1",
+        "#c7c6bb",
+        "#c1c0b6"
+      ],
+      "ref": "wood_cache/frezya.jpg"
+    },
+    {
+      "id": "merano",
+      "name_en": "Merano",
+      "name_ar": "لوح Merano",
+      "colors": [
+        "#544632",
+        "#544531",
+        "#554732",
+        "#514431",
+        "#554833",
+        "#584934"
+      ],
+      "ref": "wood_cache/merano.jpg"
+    },
+    {
+      "id": "mistik-m-xfc-rd-xfc-m-render",
+      "name_en": "Mistik M&#xFC;rd&#xFC;m Render",
+      "name_ar": "لوح Mistik M&#xFC;rd&#xFC;m Render",
+      "colors": [
+        "#8c7667",
+        "#3c2a26",
+        "#aa9882",
+        "#5b453e",
+        "#745c4b",
+        "#dbcbaf"
+      ],
+      "ref": "wood_cache/mistik-m-xfc-rd-xfc-m-render.jpg"
+    },
+    {
+      "id": "mistik-m-xfc-rd-xfc-m-inspiring",
+      "name_en": "Mistik M&#xFC;rd&#xFC;m Inspiring",
+      "name_ar": "لوح Mistik M&#xFC;rd&#xFC;m Inspiring",
+      "colors": [
+        "#ccaab8",
+        "#e3c9d5",
+        "#ddc1cd",
+        "#d4b5c2",
+        "#8e6a7c",
+        "#e9d2dc"
+      ],
+      "ref": "wood_cache/mistik-m-xfc-rd-xfc-m-inspiring.jpg"
+    },
+    {
+      "id": "rambla",
+      "name_en": "Rambla",
+      "name_ar": "لوح Rambla",
+      "colors": [
+        "#c8c5c3",
+        "#cccac8",
+        "#b6b4b2",
+        "#c3c0bd",
+        "#bebdbc",
+        "#d3d2d0"
+      ],
+      "ref": "wood_cache/rambla.jpg"
+    },
+    {
+      "id": "nil-ceviz",
+      "name_en": "Nil Ceviz",
+      "name_ar": "جوز",
+      "colors": [
+        "#704d31",
+        "#6a472c",
+        "#7b5638",
+        "#745134",
+        "#775335",
+        "#825c3c"
+      ],
+      "ref": "wood_cache/nil-ceviz.jpg"
+    },
+    {
+      "id": "zen-traverten-render",
+      "name_en": "Zen Traverten  Render",
+      "name_ar": "لوح Zen Traverten  Render",
+      "colors": [
+        "#5c4b3d",
+        "#bbb7af",
+        "#cbcac5",
+        "#7d6e5e",
+        "#d6d6d2",
+        "#9c9282"
+      ],
+      "ref": "wood_cache/zen-traverten-render.jpg"
+    },
+    {
+      "id": "zen-traverten-inspiring",
+      "name_en": "Zen Traverten  Inspiring",
+      "name_ar": "لوح Zen Traverten  Inspiring",
+      "colors": [
+        "#c3b29a",
+        "#958774",
+        "#d0c0a8",
+        "#dccfbc",
+        "#d7c7b2",
+        "#e5dbcb"
+      ],
+      "ref": "wood_cache/zen-traverten-inspiring.jpg"
+    },
+    {
+      "id": "metalik-x130-nci",
+      "name_en": "Metalik &#x130;nci",
+      "name_ar": "لوح Metalik &#x130;nci",
+      "colors": [
+        "#ebe4d2",
+        "#eae3d1",
+        "#ece5d3",
+        "#e9e2d0",
+        "#ede6d4",
+        "#e8e1cf"
+      ],
+      "ref": "wood_cache/metalik-x130-nci.jpg"
+    },
+    {
+      "id": "brezilya-cevizi",
+      "name_en": "Brezilya Cevizi",
+      "name_ar": "جوز",
+      "colors": [
+        "#7a5b45",
+        "#674c3d",
+        "#6c513e",
+        "#755742",
+        "#705340",
+        "#816249"
+      ],
+      "ref": "wood_cache/brezilya-cevizi.jpg"
+    },
+    {
+      "id": "moso",
+      "name_en": "Moso",
+      "name_ar": "لوح Moso",
+      "colors": [
+        "#b49576",
+        "#b89a7a",
+        "#b09172",
+        "#ad8f70",
+        "#a98a6c",
+        "#bca17f"
+      ],
+      "ref": "wood_cache/moso.jpg"
+    },
+    {
+      "id": "vi-x15f-ne-mermer-render",
+      "name_en": "Vi&#x15F;ne Mermer  Render",
+      "name_ar": "لوح Vi&#x15F;ne Mermer  Render",
+      "colors": [
+        "#342d24",
+        "#545b50",
+        "#60473a",
+        "#3c443b",
+        "#6c7063",
+        "#969182"
+      ],
+      "ref": "wood_cache/vi-x15f-ne-mermer-render.jpg"
+    },
+    {
+      "id": "vi-x15f-ne-mermer-inspiring",
+      "name_en": "Vi&#x15F;ne Mermer  Inspiring",
+      "name_ar": "لوح Vi&#x15F;ne Mermer  Inspiring",
+      "colors": [
+        "#574e54",
+        "#b4b8bf",
+        "#887e84",
+        "#c6cfd6",
+        "#9c9aa0",
+        "#d1dce4"
+      ],
+      "ref": "wood_cache/vi-x15f-ne-mermer-inspiring.jpg"
+    },
+    {
+      "id": "hayal-pembe",
+      "name_en": "Hayal Pembe",
+      "name_ar": "وردي",
+      "colors": [
+        "#f3d7cb",
+        "#f3d7cb",
+        "#f3d7cb",
+        "#f3d7cb",
+        "#f3d7cb",
+        "#f3d7cb"
+      ],
+      "ref": "wood_cache/hayal-pembe.jpg"
+    },
+    {
+      "id": "metalik-ekru",
+      "name_en": "Metalik Ekru",
+      "name_ar": "لوح Metalik Ekru",
+      "colors": [
+        "#e9e5da",
+        "#e8e4d9",
+        "#eae6db",
+        "#e8e5d9",
+        "#e7e3d8",
+        "#eae5da"
+      ],
+      "ref": "wood_cache/metalik-ekru.jpg"
+    },
+    {
+      "id": "vadi-me-x15f-e-render",
+      "name_en": "Vadi Me&#x15F;e Render",
+      "name_ar": "لوح Vadi Me&#x15F;e Render",
+      "colors": [
+        "#9a917c",
+        "#3e3224",
+        "#76644a",
+        "#908771",
+        "#7b7159",
+        "#a19a87"
+      ],
+      "ref": "wood_cache/vadi-me-x15f-e-render.jpg"
+    },
+    {
+      "id": "vadi-me-x15f-e-inspiring",
+      "name_en": "Vadi Me&#x15F;e Inspiring",
+      "name_ar": "لوح Vadi Me&#x15F;e Inspiring",
+      "colors": [
+        "#3c2d1d",
+        "#bcb6a0",
+        "#5f5543",
+        "#a59c86",
+        "#7c684f",
+        "#cdc7b4"
+      ],
+      "ref": "wood_cache/vadi-me-x15f-e-inspiring.jpg"
+    },
+    {
+      "id": "atlas-mavi",
+      "name_en": "Atlas Mavi",
+      "name_ar": "أزرق",
+      "colors": [
+        "#015b80",
+        "#015b80",
+        "#015b80",
+        "#015b80",
+        "#015b80",
+        "#015b80"
+      ],
+      "ref": "wood_cache/atlas-mavi.jpg"
+    },
+    {
+      "id": "sahra-me-x15f-e-render",
+      "name_en": "Sahra Me&#x15F;e Render",
+      "name_ar": "لوح Sahra Me&#x15F;e Render",
+      "colors": [
+        "#ac9f8b",
+        "#97795b",
+        "#a18f77",
+        "#837565",
+        "#6b5947",
+        "#c0b3a0"
+      ],
+      "ref": "wood_cache/sahra-me-x15f-e-render.jpg"
+    },
+    {
+      "id": "sahra-me-x15f-e-inspiring",
+      "name_en": "Sahra Me&#x15F;e Inspiring",
+      "name_ar": "لوح Sahra Me&#x15F;e Inspiring",
+      "colors": [
+        "#9d8068",
+        "#604330",
+        "#8b6a4f",
+        "#bda690",
+        "#7c604c",
+        "#ccb8a2"
+      ],
+      "ref": "wood_cache/sahra-me-x15f-e-inspiring.jpg"
+    },
+    {
+      "id": "dorado",
+      "name_en": "Dorado",
+      "name_ar": "لوح Dorado",
+      "colors": [
+        "#ad8c6c",
+        "#9c7e63",
+        "#b39271",
+        "#bc9875",
+        "#b99471",
+        "#c19d79"
+      ],
+      "ref": "wood_cache/dorado.jpg"
+    },
+    {
+      "id": "ba-x15f-ak-me-x15f-e-render",
+      "name_en": "Ba&#x15F;ak Me&#x15F;e Render",
+      "name_ar": "لوح Ba&#x15F;ak Me&#x15F;e Render",
+      "colors": [
+        "#b1a79c",
+        "#715f4a",
+        "#91816d",
+        "#bfb6ab",
+        "#a19586",
+        "#d0c7bc"
+      ],
+      "ref": "wood_cache/ba-x15f-ak-me-x15f-e-render.jpg"
+    },
+    {
+      "id": "ba-x15f-ak-me-x15f-e-inspiring",
+      "name_en": "Ba&#x15F;ak Me&#x15F;e Inspiring",
+      "name_ar": "لوح Ba&#x15F;ak Me&#x15F;e Inspiring",
+      "colors": [
+        "#825932",
+        "#c08b50",
+        "#d19b59",
+        "#916538",
+        "#a67542",
+        "#e1ae63"
+      ],
+      "ref": "wood_cache/ba-x15f-ak-me-x15f-e-inspiring.jpg"
+    },
+    {
+      "id": "montana",
+      "name_en": "Montana",
+      "name_ar": "لوح Montana",
+      "colors": [
+        "#866245",
+        "#815f43",
+        "#8b6647",
+        "#926c49",
+        "#7a593f",
+        "#9a724e"
+      ],
+      "ref": "wood_cache/montana.jpg"
+    },
+    {
+      "id": "braga",
+      "name_en": "Braga",
+      "name_ar": "لوح Braga",
+      "colors": [
+        "#a48360",
+        "#9b7a59",
+        "#a98863",
+        "#ac8b66",
+        "#b1906a",
+        "#a68764"
+      ],
+      "ref": "wood_cache/braga.jpg"
+    },
+    {
+      "id": "amber-ceviz-render",
+      "name_en": "Amber Ceviz  Render",
+      "name_ar": "جوز",
+      "colors": [
+        "#6f6e67",
+        "#ffffff",
+        "#3a322b",
+        "#c5c6c5",
+        "#feffff",
+        "#fffffe"
+      ],
+      "ref": "wood_cache/amber-ceviz-render.jpg"
+    },
+    {
+      "id": "amber-ceviz-inspiring",
+      "name_en": "Amber Ceviz  Inspiring",
+      "name_ar": "جوز",
+      "colors": [
+        "#6f5b49",
+        "#aba39c",
+        "#d2d3d3",
+        "#91806e",
+        "#c0beba",
+        "#dee0e0"
+      ],
+      "ref": "wood_cache/amber-ceviz-inspiring.jpg"
+    },
+    {
+      "id": "gri-sonoma",
+      "name_en": "Gri Sonoma",
+      "name_ar": "سونوما",
+      "colors": [
+        "#b49c81",
+        "#ab947c",
+        "#baa085",
+        "#a48d75",
+        "#b0967c",
+        "#c0a78a"
+      ],
+      "ref": "wood_cache/gri-sonoma.jpg"
+    },
+    {
+      "id": "bergamo-ceviz-render",
+      "name_en": "Bergamo Ceviz  Render",
+      "name_ar": "جوز",
+      "colors": [
+        "#897b71",
+        "#453c37",
+        "#6d5f57",
+        "#7c6d63",
+        "#cdc3be",
+        "#a0958d"
+      ],
+      "ref": "wood_cache/bergamo-ceviz-render.jpg"
+    },
+    {
+      "id": "bergamo-ceviz-inspiring",
+      "name_en": "Bergamo Ceviz  Inspiring",
+      "name_ar": "جوز",
+      "colors": [
+        "#8c7054",
+        "#553721",
+        "#af9a83",
+        "#a48e76",
+        "#d3c8bc",
+        "#bdad9c"
+      ],
+      "ref": "wood_cache/bergamo-ceviz-inspiring.jpg"
+    },
+    {
+      "id": "akik-k-x131-z-x131-l",
+      "name_en": "Akik K&#x131;z&#x131;l",
+      "name_ar": "لوح Akik K&#x131;z&#x131;l",
+      "colors": [
+        "#622014",
+        "#622014",
+        "#622014",
+        "#622014",
+        "#622014",
+        "#622014"
+      ],
+      "ref": "wood_cache/akik-k-x131-z-x131-l.jpg"
+    },
+    {
+      "id": "lagina",
+      "name_en": "Lagina",
+      "name_ar": "لوح Lagina",
+      "colors": [
+        "#bbb7b2",
+        "#c1beba",
+        "#b4aea6",
+        "#c0bcb7",
+        "#bdbbb6",
+        "#c6c3be"
+      ],
+      "ref": "wood_cache/lagina.jpg"
+    },
+    {
+      "id": "k-x131-rm-x131-z-x131",
+      "name_en": "K&#x131;rm&#x131;z&#x131;",
+      "name_ar": "لوح K&#x131;rm&#x131;z&#x131;",
+      "colors": [
+        "#cb2b2d",
+        "#cb2b2d",
+        "#cb2b2d",
+        "#cb2b2d",
+        "#cb2b2d",
+        "#cb2b2d"
+      ],
+      "ref": "wood_cache/k-x131-rm-x131-z-x131.jpg"
+    }
+  ]
+}

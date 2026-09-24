@@ -1,0 +1,7 @@
+﻿/* @tag: header-css | component: topbar | sticky: true */
+.top-header{position:sticky;top:0;z-index:100;height:54px;display:flex;align-items:center;justify-content:space-between;padding:0 14px;background:rgba(74,4,11,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.header-right{display:flex;align-items:center;gap:7px;font-weight:700;font-size:1.15rem}
+.lock-icon{font-size:.75rem;color:var(--text-sub)}
+.verified{color:#3897f0;font-size:.95rem}
+.header-left{display:flex;align-items:center;gap:16px;font-size:1.25rem}
+.lang-btn{border:1px solid var(--gold-soft);color:var(--gold);font-size:.8rem;font-weight:800;padding:4px 10px;border-radius:999px;min-width:44px}

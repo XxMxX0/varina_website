@@ -1,0 +1,17 @@
+﻿/* @tag: variables | component: theme | palette: red-gold */
+:root{
+  --red-900:#4a040b;
+  --red-800:#5c060c;
+  --red-700:#7a0a15;
+  --red-600:#9c0f1c;
+  --red-bright:#e31e2d;
+  --gold:#e6c271;
+  --gold-soft:rgba(230,194,113,.35);
+  --text:#ffffff;
+  --text-sub:rgba(255,255,255,.78);
+  --card:rgba(0,0,0,.32);
+  --card-strong:rgba(0,0,0,.45);
+  --line:rgba(255,255,255,.14);
+  --insta-gradient:linear-gradient(45deg,#f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  --radius:14px;
+}

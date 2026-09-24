@@ -1,0 +1,16 @@
+﻿/* @tag: main-css | role: gatherer | source: style/*.css */
+@import url("style/variables.css");
+@import url("style/base.css");
+@import url("style/splash.css");
+@import url("style/header.css");
+@import url("style/profile.css");
+@import url("style/hours.css");
+@import url("style/highlights.css");
+@import url("style/posts.css");
+@import url("style/viewer.css");
+@import url("style/video.css");
+@import url("style/settings.css");
+@import url("style/boards.css");
+@import url("style/cards.css");
+@import url("style/story.css");
+@import url("style/nav.css");

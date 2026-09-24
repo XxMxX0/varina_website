@@ -1,0 +1,16 @@
+﻿/* @tag: story-css | component: viewer | type: modal */
+.story-modal{position:fixed;inset:0;z-index:2000;max-width:480px;margin:0 auto;background:radial-gradient(circle at 50% 30%,var(--red-700),#2b0206 75%);display:flex;flex-direction:column}
+.story-bars{display:flex;gap:4px;padding:10px 12px 0}
+.story-bars .bar{flex:1;height:3px;background:rgba(255,255,255,.3);border-radius:3px;overflow:hidden}
+.story-bars .bar i{display:block;height:100%;width:0;background:#fff}
+.story-head{display:flex;align-items:center;gap:10px;padding:12px}
+.story-avatar{width:36px;height:36px;border-radius:50%;background:var(--insta-gradient);display:flex;align-items:center;justify-content:center;color:var(--gold);font-size:.9rem}
+.story-name{font-weight:700;font-size:.95rem}
+.story-time{color:var(--text-sub);font-size:.8rem}
+.story-close{margin-inline-start:auto;font-size:1.4rem;color:#fff}
+.story-body{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;text-align:center;padding:24px}
+.story-big-icon{width:120px;height:120px;border-radius:50%;background:rgba(0,0,0,.35);border:1px solid var(--gold-soft);display:flex;align-items:center;justify-content:center;font-size:3.4rem;color:var(--gold)}
+.story-text{font-size:1.15rem;font-weight:700;max-width:320px;line-height:1.7;white-space:pre-line}
+.story-zone{position:absolute;top:0;bottom:0;background:transparent;border:0}
+.story-prev{inset-inline-start:0;width:33%}
+.story-next{inset-inline-end:0;width:67%}

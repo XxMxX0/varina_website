@@ -1,0 +1,21 @@
+﻿/* @tag: profile-css | component: identity | lang: ar,en */
+.profile{padding:18px 16px 6px}
+.profile-top{display:flex;align-items:center;gap:18px;margin-bottom:14px}
+.avatar-ring{padding:3px;background:var(--insta-gradient);border-radius:50%;flex-shrink:0}
+.avatar-core{width:82px;height:82px;border-radius:50%;background:var(--red-900);border:3px solid var(--red-700);display:flex;flex-direction:column;align-items:center;justify-content:center}
+.avatar-v{font-size:1.9rem;font-weight:900;color:var(--gold);line-height:1}
+.avatar-word{font-size:.58rem;letter-spacing:2px;color:#fff}
+.stats{flex:1;display:flex;justify-content:space-around;text-align:center}
+.stat b{display:block;font-size:1.05rem}
+.stat span{font-size:.78rem;color:var(--text-sub)}
+.bio-name{font-size:1.02rem;font-weight:800;color:var(--gold);margin-bottom:2px}
+.bio-cat{font-size:.85rem;color:var(--text-sub);margin-bottom:8px}
+.bio-list{list-style:none;font-size:.88rem;line-height:1.9}
+.bio-list li{display:flex;gap:7px;align-items:center}
+.profile-actions{display:flex;gap:8px;margin:14px 0 6px}
+.btn{flex:1;display:flex;align-items:center;justify-content:center;gap:7px;padding:9px 10px;border-radius:9px;font-weight:700;font-size:.88rem;transition:transform .15s,opacity .15s}
+.btn:active{transform:scale(.96)}
+.btn-follow{background:var(--red-bright);color:#fff;border:1px solid rgba(255,255,255,.25)}
+.btn-follow.is-following{background:var(--card-strong);color:var(--gold);border:1px solid var(--gold-soft)}
+.btn-wa{background:#1faa53;color:#fff}
+.btn-call{background:var(--card-strong);color:#fff;border:1px solid var(--line)}
